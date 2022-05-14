@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="Breno">
+	<meta name="description" content="exercício de formulário ">
+	<meta name="keywords" content="forms, form, formulário">
+	<title> </title>
+<style>
+	body {
+	font-family: cursive;
+	background-color:#48D1CC;
+}
+	h3 {
+	text-align: center;
+	color: #051C1C;
+}
+	input[type=text],input[type=email]{
+	width: 40%;
+	padding: 5px;
+	border: 1.5px solid #008B8B;
+	border-radius: 5px;
+	background-color:#008B8B;
+	color: white;
+	outline: none;
+	font-size: 14px;
+	font-family: arial;
+}
+	input[type=email]:focus {
+	border: 2px solid #0D4343;
+}
+	input[type=text]:focus {
+	border: 2px solid #0D4343;
+}
+	textarea{
+	width: 50%;
+	padding: 5px;
+	border: 2px solid #008B8B;
+	border-radius: 10px;
+	resize: none;
+	background-color:#008B8B;
+	outline: none;
+	font-family: arial;
+	font-size: 14px;
+	color: white;
+}
+	textarea:focus {
+	border: 2px solid #0D4343;
+}
+	.data{
+	padding: 5px;
+	border: 1.5px solid #008B8B;
+	border-radius: 5px;
+	background-color:#008B8B;
+	font-family: arial;
+	color: #FFFAF0;
+	outline: none;
+	font-size: 14px;
+}
+	.data:focus{
+	border: 2px solid #0D4343;
+}
+	fieldset{
+	border: 2px solid #008B8B;
+	border-radius: 5px;
+	margin: 20px;
+}
+	.margin{
+	margin-left: 30px;
+}
+	input[type=submit],input[type=reset]{
+	background-color:#008080;
+	color:white;
+	border: 1px solid #008080;
+	padding: 9px 50px;
+	margin: 6px 2px;
+	cursor: pointer;
+	font-size: 16px;
+
+}
+	::placeholder{
+	font-family: cursive;
+	color: #F0FFF0;
+}
+	label,p,checkbox{
+	color: #051C1C;
+}
+</style>
+</head>
+<body>
+	<form action="/action_page.php">
+		<fieldset>
+		<h3>Agendamento de recursos para realização de evento</h3>
+		<label for="eveb">Evento:</label>
+			<input type="text" id="even" name="even" value="" placeholder="Digite o nome do evento..." size="40" maxlength="35" autocomplete="on" required><br>
+			<br>
+		<label for="funcionario">Funcionário:</label>
+			<input  type="text" id="funcionario" name="funcionario" value="" placeholder="Nome do funcionário..." size="40" autocomplete="on" autofocus required>
+			<label for="depart">Departamento:</label>
+			<select class="data" id="depart" name="depart" size="1" required>
+				<option>Selecione:</option>
+				<option value="apoio">Apoio</option>
+				<option value="atend">Atendimento</option>
+				<option value="cred">Credenciamento</option>
+				<option value="cerimo">Cerimônia</option>
+				<option value="divul">Divulgação</option>
+			</select><br>
+			<br>
+		<label for="email">E-mail: </label>
+			<input type="email" id=email name="email" value="" placeholder="Digite seu e-mail..." size="40" required><br>
+			<br>
+		<label for=data_hora>Data e Hora:</label>
+			<input class="data" type="datetime-local" id="data_hora" name="data_hora" value="" required><br>
+			<br>
+		<label for="local">Local:</label>
+			<input type="text" id="local" name="local" value="" placeholder="Digite o endereço..." size="40" maxlength="60" autocomplete="on" required><br>
+		<p>Equipamento necessário (marque tudo o que for necessário):</p>
+			<input type="checkbox" id="equip1" name="equip" value="projet">	
+		<label for="equip1">Projetor Multmídia (Datashow)</label><br>	
+			<br>
+			<input type="checkbox" id="equip2" name="equip" value="note">	
+		<label for="equip2">Notebook</label><br>	
+			<br>
+			<input type="checkbox" id="equip3" name="equip" value="caixa">	
+		<label for="equip3">Caixa de Som</label><br>	
+			<br>
+			<input type="checkbox" id="equip4" name="equip" value="micro">	
+		<label for="equip4">Microfone</label>
+				<label class="margin" for="fio">com fio</label>
+			<input type="radio" id="fio" name="fio" value="fio">
+				<label class="margin" for="sfio">sem fio</label>
+			<input type="radio" id="sfio" name="fio" value="sfio"><br>
+			<br>
+			<input type="checkbox" id="equip5" name="equip" value="net">	
+		<label for="equip5">Acesso à internet</label><br>
+		<br>
+		<label for="area">Observações:</label><br>
+		<br>
+			<textarea id="area" name="message" rows="15" cols="75" ></textarea><br>
+		<br>
+		<label for="data">Data da reserva:</label>
+			<input class="data" type="date" id="data_reserva" name="data" value="" min="2021-11-14" max="2022-01-01" required><br>
+			<br>
+			<input type="submit" value="Enviar">
+			<input type="reset" value="Redefinir">
+			<br>
+		</fieldset>
+	</form>
+</body>
+</html>
+	
