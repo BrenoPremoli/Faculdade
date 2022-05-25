@@ -1,11 +1,10 @@
-#entrada
-salarioAtual = float(input("Informe seu salário atual: "))
-porcentagemDeAumento = float(input("Informe a porcentagem de aumento: "))
+# 5. Faça um algoritmo que calcule e mostre a tabuada do 5. Pode implementar com o comando while ou for.
 
-#processamento
-novoSalario = salarioAtual + (salarioAtual * porcentagemDeAumento / 100)
-aumento = novoSalario - salarioAtual
-
-#saída
-print("O valor de aumento de seu salário foi de R$", aumento)
-print("Seu novo salário é R$",novoSalario)
+contador = 0
+while contador <= 50:
+  print(contador)
+  contador = contador + 5
+print("\n")
+for contador in range(0,11):
+  contador = contador * 5
+  print(contador)

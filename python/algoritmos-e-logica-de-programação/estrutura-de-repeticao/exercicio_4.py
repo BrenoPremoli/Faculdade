@@ -1,8 +1,9 @@
-#entrada
-salario = float(input("Informe seu salário: "))
+# 4. Faça um algoritmo que mostre os valores de 3 a 20. Pode implementar com o comando while ou for.
 
-#processamento
-novoSalario = salario + (salario * 25 / 100)
-
-#saída
-print("Seu novo salário será de R$",novoSalario)
+contador = 3
+while contador <= 20:
+  print(contador)
+  contador = contador + 1
+print('\n')
+for contador in range(3,21):
+  print(contador)

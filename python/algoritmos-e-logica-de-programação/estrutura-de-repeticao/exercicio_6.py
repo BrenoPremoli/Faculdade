@@ -1,12 +1,17 @@
-#entrada
-salarioBase = float(input("Informe seu salário base: "))
+# 6. Faça um algoritmo que receba a idade de 10 pessoas, calcule e exiba a quantidade de pessoas maiores de idade, sendo que a maioridade é obtida após completar 18 anos. Pode implementar com o comando while ou for.
 
-#processamento
-gratificacao = salarioBase * (5 / 100)
-imposto = salarioBase * (7 / 100)
-salarioAReceber = salarioBase + (gratificacao - imposto)
-
-#saída
-print("A gratificação é de R$", gratificacao)
-print("O imposto é de R$", imposto)
-print("O seu salário será de R$", salarioAReceber)
+contador = 1
+cont = 0
+while contador <= 10:
+  idade = int(input("Digite sua idade: "))
+  contador = contador + 1
+  if idade >= 18:
+    cont = cont + 1
+print(cont,"pessoa(s) são maiores de idade.")
+print("\n")
+cont = 0
+for contador in range (1,11):
+  idade = int(input("Digite sua idade: "))
+  if idade >= 18:
+    cont = cont + 1
+print(cont,"pessoa(s) são maiores de idade.")

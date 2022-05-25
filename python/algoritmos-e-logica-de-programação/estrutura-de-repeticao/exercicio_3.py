@@ -1,11 +1,9 @@
-#entrada
-n1 = float(input('Informe a Primeira Nota: '))
-n2 = float(input('Informe a Segunda Nota: '))
-n3 = float(input('Informe a Terceira Nota '))
+# 3. Faça um algoritmo que mostre os valores de 0 a 15. Pode implementar com o comando while ou for.
 
-#processamento
-media = (n1 + n2 + n3) / 3
-
-#saída
-
-print("Sua média é:",media)
+contador = 0
+while contador <= 10:
+  print("5 X",contador,"=", 5 * contador)
+  contador = contador + 1
+print("\n")
+for contador in range(0,11):
+  print("5 X",contador,"=", 5 * contador)
