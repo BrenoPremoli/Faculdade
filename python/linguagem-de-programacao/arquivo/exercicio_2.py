@@ -1,5 +1,8 @@
 # 2. Elabore uma estrutura para representar e armazenar 10 produtos (código, nome, preço). Utilize os recursos de arquivo para armazenar estes dados permanentemente. O nome do arquivo deve ser o mesmo da estrutura.Construa um menu com as seguintes opções, cada uma delas deve ter uma função e a main para chamar todas elas.
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd1c65cc13ff64fc5db3cd3873f44e2f29af221b
 #Menu de opções:
 #Cadastrar produtos
 #Visualizar todos os dados
@@ -53,5 +56,9 @@ def main():
         else:
             print('\nComando inválido. Tente novamente.\n')   
 
+<<<<<<< HEAD
 main()
   
+=======
+main()
+>>>>>>> dd1c65cc13ff64fc5db3cd3873f44e2f29af221b
