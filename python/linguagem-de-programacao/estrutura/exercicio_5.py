@@ -1,4 +1,5 @@
 # 5. Faça um programa que realize o cadastro de contas bancarias com as seguintes informações: numero da conta, nome do titular e saldo. O banco permitirá o cadastramento de 15 contas. Crie uma função para cada opção do menu a seguir. Utilize a estrutura na passagem de parâmetro:
+
 # Menu de opções:
 # Cadastrar contas
 # Visualizar todas as contas

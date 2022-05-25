@@ -18,3 +18,4 @@ def main():
         print(f'Código: {vet_produto[i].codigo} \tNome: {vet_produto[i].nome} \tPreço: {vet_produto[i].preco:.2f}')
 
 main()
+  

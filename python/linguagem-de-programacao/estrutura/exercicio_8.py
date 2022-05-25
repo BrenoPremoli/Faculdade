@@ -1,4 +1,5 @@
 # 8. Elabore duas estruturas, como é apresentado a seguir:
+
 # CLIENTE	DOCUMENTOS
 # cod_cli	num_doc
 # nome	    cod_cli
