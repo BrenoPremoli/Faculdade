@@ -1,4 +1,4 @@
-# 11. Faça um programa que:
+# 10. Faça um programa que:
 # preencha um vetor com sete números inteiros
 # não use nenhuma função pronta da linguagem Python.
 

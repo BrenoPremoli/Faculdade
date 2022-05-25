@@ -1,4 +1,4 @@
-# Faça um programa que:
+# 11. Faça um programa que:
 #preencha um vetor com quinze elementos inteiros
 #verifique a existência de elementos iguais a 30, mostrando os índices/posições em que apareceram.
 

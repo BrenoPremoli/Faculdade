@@ -1,4 +1,4 @@
-# Faça um programa que:
+# 14. Faça um programa que:
 # preencha um vetor com quinze números
 
 # Determine e mostre:

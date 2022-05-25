@@ -1,4 +1,4 @@
-# Faça um programa que:
+# 13. Faça um programa que:
 # receba dez números inteiros e armazene-os em um vetor
 # classifique os números em dois vetores, um com números pares e o outra com os ímpares
 # não use nenhuma função pronta da linguagem Python
