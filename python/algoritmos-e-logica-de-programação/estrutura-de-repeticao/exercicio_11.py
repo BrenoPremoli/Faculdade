@@ -1,9 +1,3 @@
-# 11. Faça um programa que receba um número, calcule e mostre:
-# O número digitado ao quadrado
-# O número digitado ao cubo
-# A raiz do número digitado
-# A raiz cúbica do número digitado
-
 #entrada
 numero = float(input("Digite um número: "))
 

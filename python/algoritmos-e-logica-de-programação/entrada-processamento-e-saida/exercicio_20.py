@@ -1,3 +1,8 @@
+# 20. Faça um programa que receba um número real, encontre e mostre:
+# a parte inteira desse número;
+# a parte fracionária desse número;
+# o arredondamento desse número.
+
 #entrada
 n = float(input("Digite um número: "))
 

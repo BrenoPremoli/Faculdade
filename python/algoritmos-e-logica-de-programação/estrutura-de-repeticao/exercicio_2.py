@@ -1,7 +1,3 @@
-# 2. Faça um programa que:
-# receba quatro números inteiros
-# calcule e mostre a soma desses números.
-
 #entrada
 n1 = int(input('informe o primeiro valor: '))
 n2 = int(input('informe o segundo valor: '))

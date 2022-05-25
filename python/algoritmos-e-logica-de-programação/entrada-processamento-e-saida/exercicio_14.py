@@ -1,3 +1,7 @@
+# 14. Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
+# a idade atual da pessoa;
+# quantos anos ela terá em 2050.
+
 #entrada
 anoDeNascimento = int(input("Digite o ano em que você nasceu: "))
 
