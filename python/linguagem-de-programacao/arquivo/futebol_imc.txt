@@ -1,0 +1,11 @@
+﻿Zagueiro; 1.79; 78.0; 24.34
+Zagueiro; 1.78; 85.0; 26.83
+Meio campo; 1.75; 71.1; 23.22
+Meio campo; 1.81; 73.5; 22.44
+Meio campo; 1.75; 73.5; 24.00
+Goleiro; 1.85; 81.0; 23.67
+Atacante; 1.87; 81.7; 23.36
+Atacante; 1.65; 55.5; 20.39
+Atacante; 1.78; 77.9; 24.59
+Lateral; 1.70; 66.0; 22.84
+Lateral; 1.74; 63.7; 21.04
