@@ -192,8 +192,7 @@ def excluir_document_period(day_i, day_f, vet_documento):
                 print('Documento excluído - Número do documento: {} \tCódigo do cliente: {} \tDia de vencimento: {} \tDia de pagamento: {} \tValor: R$ {}'.format(vet_documento[cont_doc].numero, vet_documento[cont_doc].codigo, vet_documento[cont_doc].dia_vencimento, vet_documento[cont_doc].dia_pagamento, vet_documento[cont_doc].valor, vet_documento[cont_doc].juros))
                 vet_documento.pop(cont_doc)
                 cont = cont + 1
-        print(1
-              )
+        print()
         if cont == 0:
             print('Não há documentos nesse período.\n')
     else:
