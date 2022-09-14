@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amostra</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+    </header>
+    <section>
+        <div id="form">
+            <form action="">
+                <h1>Cálculo de Amostra</h1>
+                <p>
+                    <label for="inum">Número da População:</label>
+                    <input type="number" name="num" id="inum" value="0" required>
+                </p>
+                <p>
+                    <label for="igrau">Grau de confiança (%):</label>
+                    <select name="grau" id="igrau" required>
+                    <option value="1.65">90</option>
+                    <option value="1.96" selected>95</option>
+                    <option value="2">95.5</option>
+                    <option value="2.58">99</option>
+                    </select>
+                </p>
+                <p>
+                    <label for="imarg">Margem de erro (%):</label>
+                    <input type="number" name="marg" id="imarg" min="1" value="0" required>
+                </p>
+                <p>
+                    <button id="calcular">Calcular</button>
+                    <button id="limpar">Limpar</button>
+                </p>
+                <div id="resultado">
+                    <p>Tamanho da amostra:</p>
+                </div>
+            </form>
+        </div>
+    </section>
+    <script src="amostra.js"></script>
+</body>
+</html>

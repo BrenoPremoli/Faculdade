@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background: linear-gradient(125deg, rgba(3,51,47,1), rgba(21,138,125,1));
+    padding: 0px;
+    margin: 0px;
+    font-size: 25px;
+}
+
+h1 {
+    color: rgb(12, 67, 75);
+    text-align: center;
+}
+
+p {
+    color: rgb(12, 67, 75);
+    font-weight: bold;
+}
+
+div#form {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+form {
+    background-color: rgb(87, 226, 245);
+    border: 1px solid rgb(48, 129, 139);
+    padding: 0px 25px 25px 25px;
+    border-radius: 5px;
+    box-shadow: 3px 7px 12px rgb(11, 72, 80);
+}
+
+input, select {
+    background-color: rgb(19, 71, 71);
+    color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(11, 41, 41);
+    font-size: 20px;
+
+}
+
+input#imarg{
+    width: 40px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: rgb(19, 71, 71);
+    width: 100px;
+    color: white;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: rgb(37, 131, 131);
+}
+
+#resultado {
+    color: rgb(19, 71, 71);
+    font-weight: bold;
+}
