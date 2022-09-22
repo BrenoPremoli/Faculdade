@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\bin\Debug\net6.0\thread.exe
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\bin\Debug\net6.0\thread.deps.json
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\bin\Debug\net6.0\thread.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\bin\Debug\net6.0\thread.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\bin\Debug\net6.0\thread.pdb
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\refint\thread.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.pdb
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\thread.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Sistemas Operacionais I\Atividades\thread\obj\Debug\net6.0\ref\thread.dll
