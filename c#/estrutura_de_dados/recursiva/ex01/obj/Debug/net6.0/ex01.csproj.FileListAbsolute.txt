@@ -1,0 +1,45 @@
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\bin\Debug\net6.0\ex01.exe
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\bin\Debug\net6.0\ex01.deps.json
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\bin\Debug\net6.0\ex01.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\bin\Debug\net6.0\ex01.pdb
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\refint\ex01.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.pdb
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\ex01\obj\Debug\net6.0\ref\ex01.dll
+C:\Users\Aluno\Downloads\ex01\bin\Debug\net6.0\ex01.exe
+C:\Users\Aluno\Downloads\ex01\bin\Debug\net6.0\ex01.deps.json
+C:\Users\Aluno\Downloads\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+C:\Users\Aluno\Downloads\ex01\bin\Debug\net6.0\ex01.dll
+C:\Users\Aluno\Downloads\ex01\bin\Debug\net6.0\ex01.pdb
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.dll
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\refint\ex01.dll
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.pdb
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\ex01\obj\Debug\net6.0\ref\ex01.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\bin\Debug\net6.0\ex01.exe
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\bin\Debug\net6.0\ex01.deps.json
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\bin\Debug\net6.0\ex01.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\bin\Debug\net6.0\ex01.pdb
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\refint\ex01.dll
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.pdb
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\recursiva\ex01\obj\Debug\net6.0\ref\ex01.dll
