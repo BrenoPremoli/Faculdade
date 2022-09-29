@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\pilha\\ex09\\ex09.csproj": {}
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\pilha\\ex09\\ex09.csproj": {}
   },
   "projects": {
-    "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\pilha\\ex09\\ex09.csproj": {
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\pilha\\ex09\\ex09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\pilha\\ex09\\ex09.csproj",
+        "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\pilha\\ex09\\ex09.csproj",
         "projectName": "ex09",
-        "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\pilha\\ex09\\ex09.csproj",
+        "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\pilha\\ex09\\ex09.csproj",
         "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\pilha\\ex09\\obj\\",
+        "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\pilha\\ex09\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config"
