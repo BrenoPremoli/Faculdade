@@ -6,7 +6,6 @@ c) Autorizar a decolagem de um avião da fila
 d) Listar os números de todos os aviões na fila
 e) Consultar o número do primeiro avião da fila
 Construa um menu principal para oferecer essas operações ao usuário.
-
 */
 
 const int MAX = 20;
