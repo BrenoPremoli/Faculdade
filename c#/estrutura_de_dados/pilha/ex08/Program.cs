@@ -1,4 +1,8 @@
-﻿const int MAX = 20;
+﻿/*
+Faça um programa que converta um número inteiro da base decimal para a base binária.
+*/
+
+const int MAX = 20;
 
 void Insere(int[] p, ref int t, int v)
 {

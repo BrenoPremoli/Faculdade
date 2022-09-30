@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-/* 1) Faça um programa que apresente um menu inicial com as seguintes opções: 
+﻿/* 1) Faça um programa que apresente um menu inicial com as seguintes opções: 
 
 MENU PRINCIPAL 
 

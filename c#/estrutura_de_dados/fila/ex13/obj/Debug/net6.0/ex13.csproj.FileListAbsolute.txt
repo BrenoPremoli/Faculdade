@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\ex13\bin\Debug\net6.0\ex13.exe
+C:\Users\Aluno\Downloads\ex13\bin\Debug\net6.0\ex13.deps.json
+C:\Users\Aluno\Downloads\ex13\bin\Debug\net6.0\ex13.runtimeconfig.json
+C:\Users\Aluno\Downloads\ex13\bin\Debug\net6.0\ex13.dll
+C:\Users\Aluno\Downloads\ex13\bin\Debug\net6.0\ex13.pdb
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.dll
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\refint\ex13.dll
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.pdb
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ex13.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\ex13\obj\Debug\net6.0\ref\ex13.dll

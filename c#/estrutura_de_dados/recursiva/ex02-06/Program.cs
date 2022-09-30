@@ -1,4 +1,33 @@
-﻿int potencia(int x, int y)
+﻿/*
+2) Escreva uma função recursiva chamada potencia(x, y), que retorne a base x elevado ao expoente y.
+
+
+3) Implemente uma versão recursiva da seguinte função iterativa. Faça a repetição recursiva somente do for, não precisa fazer da expressão i * i * i.
+void cubos (int n)
+{
+for (int i = 1; i <= n; i++)
+Controle.WriteLine(i * i * i);
+}
+
+
+4) Baseado no algoritmo de Euclides, implemente uma função recursiva para determinar o máximo divisor comum (mdc) entre dois números inteiros x e y.
+	Algoritmo de Euclides:
+	se (x = y) retorna x
+	senão se (x < y) retorna mdc(y, x)
+	senão retorna mdc(x - y, y)
+
+
+5) A Série de Fibonacci pode ser definida da seguinte maneira:
+	se (n == 0 ou n == 1) retorna n
+	se (n >= 2) retorna fib(n – 1) + fib(n – 2)
+ 
+Seja fib(n) uma função que retorna o n-ésimo termo da série de Fibonacci, implemente uma versão recursiva e outra iterativa. Observe que a partir de um determinado número, a função recursiva começa a ficar mais lenta que a iterativa.
+
+
+6) Defina uma função recursiva que converte um número inteiro para a base binária.
+*/
+
+int potencia(int x, int y)
 {
     if (y - 1 != 0)
         return x * potencia(x, y - 1);

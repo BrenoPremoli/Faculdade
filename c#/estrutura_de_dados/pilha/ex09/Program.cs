@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿/* 
+Escreva um programa para conhecer uma frase e exibi-la com as PALAVRAS invertidas. 
+Por exemplo, a frase “Jose da Silva” deve sair “esoJ ad avliS”.
+*/
 
 void Insere(char[] p, ref int t, char v)
 {
