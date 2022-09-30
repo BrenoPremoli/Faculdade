@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\recursiva\\ex01\\ex01.csproj",
+      "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\recursiva\\ex01\\ex01.csproj",
       "projectName": "ex01",
-      "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\recursiva\\ex01\\ex01.csproj",
+      "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\recursiva\\ex01\\ex01.csproj",
       "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\recursiva\\ex01\\obj\\",
+      "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\recursiva\\ex01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config"

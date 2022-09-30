@@ -28,3 +28,18 @@ C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dado
 C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\pilha\ex09\obj\Debug\net6.0\ex09.pdb
 C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\pilha\ex09\obj\Debug\net6.0\ex09.genruntimeconfig.cache
 C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\pilha\ex09\obj\Debug\net6.0\ref\ex09.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\bin\Debug\net6.0\ex09.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\bin\Debug\net6.0\ex09.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\bin\Debug\net6.0\ex09.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\bin\Debug\net6.0\ex09.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\bin\Debug\net6.0\ex09.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\refint\ex09.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ex09.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\pilha\ex09\obj\Debug\net6.0\ref\ex09.dll
