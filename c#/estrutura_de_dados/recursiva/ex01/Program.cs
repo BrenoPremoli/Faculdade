@@ -21,7 +21,8 @@ MENU SECUNDÁRIO
 4 - Somatório dos inteiros 
 
 Faça uma função recursiva para cada opção desse segundo menu. 
-Se o usuário escolher a opção 2 (do menu inicial), solicite vários números inteiros (armazene num vetor) e em seguida faça uma função recursiva que calcule o somatório dos números do vetor. */
+Se o usuário escolher a opção 2 (do menu inicial), solicite vários números inteiros (armazene num vetor) e em seguida faça uma função recursiva que calcule o somatório dos números do vetor. 
+*/
 
 void crescente(int nI, int nF)
 {

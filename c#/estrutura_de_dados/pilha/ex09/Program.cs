@@ -1,5 +1,5 @@
 ﻿/* 
-Escreva um programa para conhecer uma frase e exibi-la com as PALAVRAS invertidas. 
+Escreva um programa para conhecer uma frase e exibi-la com PALAVRAS invertidas. 
 Por exemplo, a frase “Jose da Silva” deve sair “esoJ ad avliS”.
 */
 
