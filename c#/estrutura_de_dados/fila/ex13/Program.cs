@@ -1,7 +1,8 @@
 ﻿/*
 Escreva um programa que tenha uma fila cujo valores indicam prioridade, quanto maior o valor, 
 maior a prioridade.
-Seu programa deve inserir vários valores numa fila e solicitar um valor divisor. Em seguida, o programa deve dividir a fila inicial em duas novas filas, uma fila com valores menores que o divisor (menor prioridade) e outra fila com os valores maiores que o divisor (maior prioridade). Por fim, informe os valores das duas novas filas.
+Seu programa deve inserir vários valores numa fila e solicitar um valor divisor. 
+Em seguida, o programa deve dividir a fila inicial em duas novas filas, uma fila com valores menores que o divisor (menor prioridade) e outra fila com os valores maiores que o divisor (maior prioridade). Por fim, informe os valores das duas novas filas.
 */
 
 const int MAX = 20;
