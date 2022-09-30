@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\fila\\ex15\\ex15.csproj",
+      "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\fila\\ex15\\ex15.csproj",
       "projectName": "ex15",
-      "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\fila\\ex15\\ex15.csproj",
+      "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\fila\\ex15\\ex15.csproj",
       "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\Fatec - Faculdade\\Módulo 3\\Estrutura de Dados\\exercicios\\fila\\ex15\\obj\\",
+      "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\estrutura_de_dados\\fila\\ex15\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config"

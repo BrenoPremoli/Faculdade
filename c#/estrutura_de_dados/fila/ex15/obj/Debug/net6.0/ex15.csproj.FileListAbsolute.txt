@@ -13,3 +13,18 @@ C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dado
 C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\fila\ex15\obj\Debug\net6.0\ex15.pdb
 C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\fila\ex15\obj\Debug\net6.0\ex15.genruntimeconfig.cache
 C:\Users\breno\OneDrive\Documentos\Fatec - Faculdade\Módulo 3\Estrutura de Dados\exercicios\fila\ex15\obj\Debug\net6.0\ref\ex15.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\bin\Debug\net6.0\ex15.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\bin\Debug\net6.0\ex15.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\bin\Debug\net6.0\ex15.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\bin\Debug\net6.0\ex15.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\bin\Debug\net6.0\ex15.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\refint\ex15.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ex15.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\fila\ex15\obj\Debug\net6.0\ref\ex15.dll

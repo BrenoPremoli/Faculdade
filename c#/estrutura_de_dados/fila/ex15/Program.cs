@@ -39,26 +39,46 @@ bool EstaCheia(int f)
         return false;
 }
 
-Console.WriteLine("1) Adicionar vários aviões à fila de espera para decolagem");
-Console.WriteLine("2) Consultar a quantidade de aviões aguardando na fila");
-Console.WriteLine("3) Autorizar a decolagem de um avião da fila");
-Console.WriteLine("4) Listar os números de todos os aviões na fila"); 
-Console.WriteLine("5) Consultar o número do primeiro avião da fila"); 
+int Contar(int i, int f)
+{
+    int cont = i - f;
+    return cont;
+}
 
-int opc;
+void Listar(int[] q, int i, int f)
+{
+    Console.WriteLine("Números de todos os aviões na fila: ");
+    while (i < f)
+    {
+        Console.WriteLine("Avião "+q[i]);
+        i++;
+    } 
+}
+
+void Consultar(int[] q, int i)
+{
+    Console.WriteLine("Número do primeiro avião da fila: " + q[i]);
+}
+
+int opc = 1;
 int[] fila = new int [MAX]; 
 int inicio = 0, fim = 0;
-int n = 1; 
+int n = 1;
 
-Console.Write("Digite uma opção: "); 
-opc = Convert.ToInt32(Console.ReadLine());
-while (opc != 6)
-{
+while (opc < 6 && opc > 0)
+{   
+    Console.WriteLine("\n1) Adicionar vários aviões à fila de espera para decolagem");
+    Console.WriteLine("2) Consultar a quantidade de aviões aguardando na fila");
+    Console.WriteLine("3) Autorizar a decolagem de um avião da fila");
+    Console.WriteLine("4) Listar os números de todos os aviões na fila"); 
+    Console.WriteLine("5) Consultar o número do primeiro avião da fila"); 
+    Console.Write("\nDigite uma opção: "); 
+    opc = Convert.ToInt32(Console.ReadLine());
     if (opc == 1)
     {
         while (n != 0) 
         {
-            Console.Write("Digite o número do avião: "); 
+            Console.Write("Digite o número do avião (0 para parar): "); 
             n = Convert.ToInt32(Console.ReadLine()); 
             if (EstaCheia(fim) == false)
             {
@@ -74,8 +94,26 @@ while (opc != 6)
             }
         }
     }
-    Console.Write("Digite uma opção: "); 
-    opc = Convert.ToInt32(Console.ReadLine());
-    n = 1;
+
+    else if (opc == 2)
+    {
+        Console.WriteLine("Total de aviões na vila: "+Contar(fim, inicio));
+    }
+
+    else if (opc == 3)
+    {
+        n = Remove(fila, ref inicio);
+        Console.WriteLine("Avião liberado");
+    }
+
+    else if (opc == 4)
+    {
+        Listar(fila, inicio, fim);
+    }
+
+    else if (opc == 5)
+    {
+        Consultar(fila, inicio);
+    }
 }
 
