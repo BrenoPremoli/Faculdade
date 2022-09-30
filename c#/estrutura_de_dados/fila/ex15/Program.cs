@@ -48,10 +48,9 @@ int Contar(int i, int f)
 void Listar(int[] q, int i, int f)
 {
     Console.WriteLine("Números de todos os aviões na fila: ");
-    while (i < f)
+    for (;i < f; i++)
     {
         Console.WriteLine("Avião "+q[i]);
-        i++;
     } 
 }
 
