@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\ex017\bin\Debug\net6.0\ex017.exe
+C:\Users\Aluno\Downloads\ex017\bin\Debug\net6.0\ex017.deps.json
+C:\Users\Aluno\Downloads\ex017\bin\Debug\net6.0\ex017.runtimeconfig.json
+C:\Users\Aluno\Downloads\ex017\bin\Debug\net6.0\ex017.dll
+C:\Users\Aluno\Downloads\ex017\bin\Debug\net6.0\ex017.pdb
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.dll
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\refint\ex017.dll
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.pdb
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ex017.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\ex017\obj\Debug\net6.0\ref\ex017.dll
