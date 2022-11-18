@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\bin\Debug\net6.0\ex24.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\bin\Debug\net6.0\ex24.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\bin\Debug\net6.0\ex24.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\bin\Debug\net6.0\ex24.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\bin\Debug\net6.0\ex24.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\refint\ex24.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ex24.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\arvore_binaria\ex24\obj\Debug\net6.0\ref\ex24.dll
