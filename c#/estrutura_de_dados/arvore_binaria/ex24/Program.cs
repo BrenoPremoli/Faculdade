@@ -48,9 +48,9 @@ tp_no RetornaMaior(ref tp_no r)
 tp_no Remove(ref tp_no r, int x)
 {
     if (r == null)
-        return null;     
+        return null;
     else if (x == r.valor)
-    {       
+    {
         tp_no p = r;
         if (r.esq == null) // nao tem filho esquerdo
             r = r.dir;
@@ -62,7 +62,7 @@ tp_no Remove(ref tp_no r, int x)
             r.valor = p.valor;
         }
         return p;
-   }
+    }
     else if (x < r.valor)
         return Remove(ref r.esq, x);
     else
@@ -81,7 +81,7 @@ void EmOrdem(tp_no r)
 
 void PreOrdem(tp_no r)
 {
-   if (r != null)
+    if (r != null)
     {
         Console.WriteLine(r.valor);
         PreOrdem(r.esq);
@@ -117,7 +117,7 @@ void Procurar()
     }
     else
     {
-    Console.WriteLine("VALOR ENCONTRADO");  
+        Console.WriteLine("VALOR ENCONTRADO");
     }
 }
 
@@ -131,16 +131,16 @@ void Remover()
     }
     else
     {
-    Remove(ref raiz, v);
-    Console.WriteLine("VALOR REMOVIDO");  
-    }   
+        Remove(ref raiz, v);
+        Console.WriteLine("VALOR REMOVIDO");
+    }
 }
 
 void Exibir()
 {
     Console.WriteLine("MODO DE EXIBIÇÃO");
     Console.WriteLine("=======================================");
-    Console.WriteLine("1. Exibir em ordem crescente");
+    Console.WriteLine("1. Exibir em ordem crescente (em ordem)");
     Console.WriteLine("2. Exibir na ordem em que foi digitada (pré ordem)");
     Console.WriteLine("3. Exibir na ordem oposta a que foi digitada (pós ordem)");
     Console.WriteLine("=======================================");
@@ -162,7 +162,7 @@ void Exibir()
 
 int x = 1;
 
-while(x < 6)
+while (x < 6)
 {
     Console.WriteLine("\nMENU");
     Console.WriteLine("=======================================");
@@ -197,7 +197,6 @@ while(x < 6)
         break;
     }
 }
-
 
 class tp_no
 {
