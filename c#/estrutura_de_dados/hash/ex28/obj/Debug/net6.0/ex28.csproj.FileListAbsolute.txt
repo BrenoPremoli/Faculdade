@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\bin\Debug\net6.0\ex28.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\bin\Debug\net6.0\ex28.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\bin\Debug\net6.0\ex28.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\bin\Debug\net6.0\ex28.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\bin\Debug\net6.0\ex28.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\refint\ex28.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ex28.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\estrutura_de_dados\hash\ex28\obj\Debug\net6.0\ref\ex28.dll
