@@ -9,33 +9,35 @@ namespace ClasseConta
     {
         //declaração de atributos
         public int numero;
-        public string titular;
+        public string titular = "";
         public double saldo;
         //declaração dos métodos/funções
+        public void Aplicacao(double porcentagem)
+        {
+            saldo = saldo + (saldo * porcentagem / 100);
+        }
+        public bool Transferir(double valorTransferir, Conta objContaDestino)
+        {
+            if (saldo >= valorTransferir)
+            {
+                saldo = saldo - valorTransferir;
+                objContaDestino.saldo = objContaDestino.saldo + valorTransferir; // objContaDestino.saldo += valorTransferir;
+                return true;
+            }
+            return false;
+        }
         public void MostrarAtributos(){
             System.Console.WriteLine("\nNúmero: " + numero);
             System.Console.WriteLine("Titular: " + titular);
             System.Console.WriteLine("Saldo: " + saldo);
         }
-        public void Sacar()
+        public void Sacar(double valorSaque)
         {
-
+            saldo = saldo - valorSaque;
         }
-        public void Depositar(double valor)
+        public void Depositar(double valorDeposito)
         {
-            saldo = saldo + valor;
-        }
-        public void Transferir(double valor, Conta c)
-        {
-            if (valor > saldo)
-            {
-                System.Console.WriteLine("\nSaldo Insuficiente.");
-            }
-            else
-            {
-            saldo = saldo - valor;
-            c.Depositar(valor);
-            }
+            saldo += valorDeposito;
         }
     }
 }

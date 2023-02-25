@@ -7,9 +7,11 @@ namespace ClasseProduto
 {
     public class Produto
     {
+        //declaração de atributos
         public int codigo;
-        public string descricao;
+        public string descricao = "";
         public double preco;
+        //declaração dos métodos/funções
         public void MostrarDados()
         {
             System.Console.WriteLine("\nCódigo: {0}", codigo);

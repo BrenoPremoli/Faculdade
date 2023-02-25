@@ -8,7 +8,7 @@ namespace ClasseFuncionario
     public class Funcionario
     {
         public int codigo;
-        public string nome;
+        public string nome = "";
         public double salario;
         public void MostrarDados()
         {

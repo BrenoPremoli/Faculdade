@@ -1,15 +1,24 @@
-﻿using ClasseProduto;
+﻿// função Main() implícita
+using ClasseProduto;
 
 Produto p1 = new Produto();
-p1.codigo = 1223;
-p1.descricao = "Arroz";
-p1.preco = 10;
+System.Console.Write("Digite o código: ");
+p1.codigo = Convert.ToInt32(Console.ReadLine());
+System.Console.Write("Digite o descrição: ");
+p1.descricao = Console.ReadLine();
+System.Console.Write("Digite o preço: ");
+p1.preco = Convert.ToDouble(Console.ReadLine());
 
 Produto p2 = new Produto();
-p2.codigo = 1224;
-p2.descricao = "Feijão";
-p2.preco = 8;
+System.Console.Write("\nDigite o código: ");
+p2.codigo = Convert.ToInt32(Console.ReadLine());
+System.Console.Write("Digite o descrição: ");
+p2.descricao = Console.ReadLine();
+System.Console.Write("Digite o preço: ");
+p2.preco = Convert.ToDouble(Console.ReadLine());
 
 p1.MostrarDados();
 p2.MostrarDados();
-System.Console.WriteLine("\nValor total: R$ {0}", p1.preco + p2.preco);
+double soma = p1.preco + p2.preco;
+System.Console.WriteLine($"\nValor total: {soma:C}"); // dinheiro
+System.Console.WriteLine($"\nValor total: {soma:N}"); // outros números
