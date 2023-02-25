@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\bin\Debug\net7.0\ArrayConta.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\bin\Debug\net7.0\ArrayConta.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\bin\Debug\net7.0\ArrayConta.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\bin\Debug\net7.0\ArrayConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\bin\Debug\net7.0\ArrayConta.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\refint\ArrayConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ArrayConta.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayConta\obj\Debug\net7.0\ref\ArrayConta.dll

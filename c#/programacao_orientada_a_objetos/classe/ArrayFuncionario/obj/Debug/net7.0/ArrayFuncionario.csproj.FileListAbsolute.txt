@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\bin\Debug\net7.0\ArrayFuncionario.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\bin\Debug\net7.0\ArrayFuncionario.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\bin\Debug\net7.0\ArrayFuncionario.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\bin\Debug\net7.0\ArrayFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\bin\Debug\net7.0\ArrayFuncionario.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\refint\ArrayFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ArrayFuncionario.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayFuncionario\obj\Debug\net7.0\ref\ArrayFuncionario.dll

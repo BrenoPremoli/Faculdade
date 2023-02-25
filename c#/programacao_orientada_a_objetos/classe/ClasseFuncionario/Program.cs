@@ -1,4 +1,5 @@
-﻿using ClasseFuncionario;
+﻿// função Main()
+using ClasseFuncionario;
 
 Funcionario f1 = new Funcionario();
 f1.codigo = 3;

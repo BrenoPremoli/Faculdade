@@ -26,10 +26,11 @@ namespace ClasseConta
             }
             return false;
         }
-        public void MostrarAtributos(){
+        public void MostrarAtributos()
+        {
             System.Console.WriteLine("\nNúmero: " + numero);
             System.Console.WriteLine("Titular: " + titular);
-            System.Console.WriteLine("Saldo: " + saldo);
+            System.Console.WriteLine($"Saldo: + {saldo:C}");
         }
         public void Sacar(double valorSaque)
         {
