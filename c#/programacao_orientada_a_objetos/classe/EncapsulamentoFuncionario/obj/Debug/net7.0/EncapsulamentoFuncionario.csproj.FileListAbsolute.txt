@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\refint\EncapsulamentoFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoFuncionario\obj\Debug\net7.0\ref\EncapsulamentoFuncionario.dll

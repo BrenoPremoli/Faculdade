@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\refint\EncapsulamentoConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoConta\obj\Debug\net7.0\ref\EncapsulamentoConta.dll

@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\bin\Debug\net7.0\ArrayProduto.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\bin\Debug\net7.0\ArrayProduto.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\bin\Debug\net7.0\ArrayProduto.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\bin\Debug\net7.0\ArrayProduto.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\bin\Debug\net7.0\ArrayProduto.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\refint\ArrayProduto.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ArrayProduto.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\ArrayProduto\obj\Debug\net7.0\ref\ArrayProduto.dll

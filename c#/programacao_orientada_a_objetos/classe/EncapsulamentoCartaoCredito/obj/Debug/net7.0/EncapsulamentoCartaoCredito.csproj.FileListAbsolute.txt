@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\bin\Debug\net7.0\EncapsulamentoCartaoCredito.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\bin\Debug\net7.0\EncapsulamentoCartaoCredito.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\bin\Debug\net7.0\EncapsulamentoCartaoCredito.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\bin\Debug\net7.0\EncapsulamentoCartaoCredito.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\bin\Debug\net7.0\EncapsulamentoCartaoCredito.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\refint\EncapsulamentoCartaoCredito.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\EncapsulamentoCartaoCredito.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\EncapsulamentoCartaoCredito\obj\Debug\net7.0\ref\EncapsulamentoCartaoCredito.dll
