@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\bin\Debug\net7.0\AgregacaoConta.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\refint\AgregacaoConta.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\AgregacaoConta.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoConta\obj\Debug\net7.0\ref\AgregacaoConta.dll

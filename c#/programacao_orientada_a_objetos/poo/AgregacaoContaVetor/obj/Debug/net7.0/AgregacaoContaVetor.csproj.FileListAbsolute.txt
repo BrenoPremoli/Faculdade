@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\bin\Debug\net7.0\AgregacaoContaVetor.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\refint\AgregacaoContaVetor.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\AgregacaoContaVetor.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\classe\AgregacaoContaVetor\obj\Debug\net7.0\ref\AgregacaoContaVetor.dll

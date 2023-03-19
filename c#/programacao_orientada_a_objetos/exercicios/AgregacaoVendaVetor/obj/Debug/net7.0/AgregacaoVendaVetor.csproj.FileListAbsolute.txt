@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\bin\Debug\net7.0\AgregacaoVendaVetor.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\bin\Debug\net7.0\AgregacaoVendaVetor.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\bin\Debug\net7.0\AgregacaoVendaVetor.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\bin\Debug\net7.0\AgregacaoVendaVetor.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\bin\Debug\net7.0\AgregacaoVendaVetor.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\refint\AgregacaoVendaVetor.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\AgregacaoVendaVetor.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\AgregacaoVendaVetor\obj\Debug\net7.0\ref\AgregacaoVendaVetor.dll
