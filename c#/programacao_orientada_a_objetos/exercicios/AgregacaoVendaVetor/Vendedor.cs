@@ -19,8 +19,8 @@ namespace AgregacaoVendaVetor
         }
         public void MostrarVendedor()
         {
-            System.Console.WriteLine("VENDEDOR: {0}", Nome);
-            System.Console.WriteLine("Comissão: {0:C}\n", Comissao);
+            System.Console.Write("VENDEDOR: {0}\t\t", Nome);
+            System.Console.WriteLine("Comissão: {0}%\n", Comissao);
         }
     }
 }

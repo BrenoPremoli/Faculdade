@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\bin\Debug\net7.0\ComposicaoPedido.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\refint\ComposicaoPedido.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ComposicaoPedido.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoPedido\obj\Debug\net7.0\ref\ComposicaoPedido.dll

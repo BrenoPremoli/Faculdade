@@ -5,7 +5,7 @@ using AgregacaoVendaVetor;
 // VENDA 1
 
 Venda venda1 = new Venda(1);
-Comprador comprador1 = new Comprador("Bia", 200);
+Comprador comprador1 = new Comprador("Bia", 20);
 Vendedor vendedor1 = new Vendedor("César", 3);
 
 Produto produto1 = new Produto("Arroz", 10, 5);
@@ -30,7 +30,6 @@ foreach (Produto p in venda1.VetProduto)
 
 venda1.SomaProduto();
 venda1.VerbaComprador();
-venda1.CalcularComissao();
 
 // VENDA 2
 

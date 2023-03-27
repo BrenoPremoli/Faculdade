@@ -19,7 +19,7 @@ namespace AgregacaoVendaVetor
         }
         public void MostrarComprador()
         {
-            System.Console.WriteLine("COMPRADOR: {0}", Nome);
+            System.Console.Write("COMPRADOR: {0}\t\t", Nome);
             System.Console.WriteLine("Verba: {0:C}", Verba);
         }
     }

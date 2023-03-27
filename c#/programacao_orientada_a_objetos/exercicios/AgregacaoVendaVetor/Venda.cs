@@ -18,7 +18,7 @@ namespace AgregacaoVendaVetor
         }
         public void Mostrar()
         {
-            System.Console.WriteLine("VENDA: {0}\n", Numero);
+            System.Console.WriteLine("\nVENDA: {0}\n", Numero);
             _Comprador.MostrarComprador();
             _Vendedor.MostrarVendedor();    
         }
@@ -37,8 +37,14 @@ namespace AgregacaoVendaVetor
         }
         public void VerbaComprador()
         {
-            double troco = _Comprador.Verba - Total;
-            System.Console.WriteLine("Restante da Verba: {0:C}", troco);
+            if (_Comprador.Verba > Total)
+            {
+                double troco = _Comprador.Verba - Total;
+                System.Console.WriteLine("Restante da Verba: {0:C}", troco);
+                CalcularComissao();
+            }
+            else
+                System.Console.WriteLine("VERBA insuficiente");
         }
         public void CalcularComissao()
         {

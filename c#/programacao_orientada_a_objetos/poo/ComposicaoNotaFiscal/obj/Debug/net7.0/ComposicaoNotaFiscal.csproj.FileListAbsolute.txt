@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\bin\Debug\net7.0\ComposicaoNotaFiscal.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\bin\Debug\net7.0\ComposicaoNotaFiscal.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\bin\Debug\net7.0\ComposicaoNotaFiscal.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\bin\Debug\net7.0\ComposicaoNotaFiscal.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\bin\Debug\net7.0\ComposicaoNotaFiscal.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\refint\ComposicaoNotaFiscal.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ComposicaoNotaFiscal\obj\Debug\net7.0\ref\ComposicaoNotaFiscal.dll
