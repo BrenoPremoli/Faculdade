@@ -17,7 +17,7 @@ namespace ComposicaoBanco
         public void MostrarContaCorrente()
         {
             System.Console.WriteLine("Saldo da Conta Corrente: {0:C}", Saldo);
-            System.Console.WriteLine("Valor do Cheque Especial: {0:C}", ChequeEspecial);
+            System.Console.WriteLine("Valor do Cheque Especial: {0:C}\n", ChequeEspecial);
         }
     }
 }

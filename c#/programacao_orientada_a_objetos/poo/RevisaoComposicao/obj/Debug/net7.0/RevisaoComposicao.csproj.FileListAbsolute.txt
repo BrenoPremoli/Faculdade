@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\bin\Debug\net7.0\RevisaoComposicao.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\bin\Debug\net7.0\RevisaoComposicao.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\bin\Debug\net7.0\RevisaoComposicao.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\bin\Debug\net7.0\RevisaoComposicao.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\bin\Debug\net7.0\RevisaoComposicao.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\refint\RevisaoComposicao.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\RevisaoComposicao.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoComposicao\obj\Debug\net7.0\ref\RevisaoComposicao.dll

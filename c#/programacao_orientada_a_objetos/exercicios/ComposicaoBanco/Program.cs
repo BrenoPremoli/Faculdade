@@ -16,16 +16,25 @@ List<Poupanca> vetorPoupanca = new List<Poupanca>();
 vetorPoupanca.Add(poupanca1);
 vetorPoupanca.Add(poupanca2);
 
-Banco banco1 = new Banco(vetorConta, vetorPoupanca);
+Banco banco1 = new Banco("Santander", vetorConta, vetorPoupanca);
+System.Console.WriteLine("\nBANCO - {0}\n", banco1.Nome);
+banco1.ListarDados();
 
-System.Console.WriteLine("\nBANCO 1\n");
-foreach(ContaCorrente conta in banco1.VetConta)
-{
-    System.Console.WriteLine("Saldo {0:C}", conta.Saldo);
-    System.Console.WriteLine("Cheque especial {0:C}", conta.ChequeEspecial);
-}
-System.Console.WriteLine();
-foreach(Poupanca poupanca in banco1.VetPoupanca)
-{
-    System.Console.WriteLine("Saldo {0:C}", poupanca.SaldoPoupanca);
-}
+// BANCO 2
+ContaCorrente conta3 = new ContaCorrente(8000, 10000);
+Poupanca poupanca3 = new Poupanca(80000);
+
+ContaCorrente conta4 = new ContaCorrente(2, 5000);
+Poupanca poupanca4 = new Poupanca(10000);
+
+List<ContaCorrente> vetorContaItau = new List<ContaCorrente>();
+vetorContaItau.Add(conta3);
+vetorContaItau.Add(conta4);
+
+List<Poupanca> vetorPoupancaItau = new List<Poupanca>();
+vetorPoupancaItau.Add(poupanca3);
+vetorPoupancaItau.Add(poupanca4);
+
+Banco banco2 = new Banco("Itaú", vetorContaItau, vetorPoupancaItau);
+System.Console.WriteLine("\nBANCO - {0}\n", banco2.Nome);
+banco2.ListarDados();

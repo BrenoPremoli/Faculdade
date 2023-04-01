@@ -14,7 +14,7 @@ namespace ComposicaoBanco
         }
         public void MostrarPoupanca()
         {
-            System.Console.WriteLine("Saldo da poupança: {0:C}", SaldoPoupanca);
+            System.Console.WriteLine("Saldo da poupança: {0:C}\n", SaldoPoupanca);
         }
     }
 }

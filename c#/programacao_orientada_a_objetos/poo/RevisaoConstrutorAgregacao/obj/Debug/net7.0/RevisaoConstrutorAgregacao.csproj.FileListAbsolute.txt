@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\bin\Debug\net7.0\RevisaoConstrutorAgregacao.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\bin\Debug\net7.0\RevisaoConstrutorAgregacao.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\bin\Debug\net7.0\RevisaoConstrutorAgregacao.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\bin\Debug\net7.0\RevisaoConstrutorAgregacao.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\bin\Debug\net7.0\RevisaoConstrutorAgregacao.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\refint\RevisaoConstrutorAgregacao.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\RevisaoConstrutorAgregacao.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\RevisaoConstrutorAgregacao\obj\Debug\net7.0\ref\RevisaoConstrutorAgregacao.dll
