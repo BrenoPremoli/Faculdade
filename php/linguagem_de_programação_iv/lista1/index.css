@@ -1,0 +1,29 @@
+.all {
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 0px 0px 0px 0px;
+    background-color: white;
+    color: white;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0);
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: brown;
+}
+
+a:visited {
+    color: rgb(255, 0, 0);
+  }
+
+body {
+    background-color: rgb(131, 119, 125);
+}
