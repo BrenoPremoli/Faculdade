@@ -5,6 +5,12 @@ $msg = "";
 $qtd_letras = 0;
 $qtd_palavras = 0;
 
+function get_num_of_words($string) {
+      $string = preg_replace('/\s+/', ' ', trim($string));
+      $words = explode(" ", $string);
+      return count($words);
+}
+
 if (isset($_GET['enviar'])) // isset verifica se a variável foi iniciada
 { 
     $frase = $_GET["frase"];
@@ -21,22 +27,48 @@ if (isset($_GET['enviar'])) // isset verifica se a variável foi iniciada
       else 
       {
         $flag_msg = true;
+        for ($i = 0; $i < mb_strlen($frase); $i++)
+        {
+          if ($frase[$i] != " ")
+          {
+            $qtd_letras++;
+            $letra[] = substr($frase, $i, 1);
+          }
+        }
+        $qtd_palavras = get_num_of_words($frase);
         $tam_palavra = mb_strlen($palavra) - 1;
         $pos_inicio = $pos + $tam_palavra;
         $msg .= "Parabéns!\n";
         $msg .= "Nós encontramos a  palavra [$palavra] em [$frase].<br>";
         $msg .= "Posição do início ($pos)<br>";
         $msg .= "Posição do final ($pos_inicio)<br>";
+        $msg .= "Quantidade de letras = {$qtd_letras}<br>";
+        $msg .= "Quantidade de palavras = {$qtd_palavras}<br>";
+        $contador = 0;
+        for ($c = 0; $c < mb_strlen($frase); $c++)
+        {
+          for ($c1 = 0; $c1 < mb_strlen($frase); $c1++)
+            if ($frase[$c] == $frase[$c1] && $frase[$c1] != " ")
+            {
+            {
+              $contador++;
+            }
+          }
+          if ($contador > 0)
+          {
+            $msg .= $frase[$c] . " repete " . $contador . " vezes.<br>";
+            $frase = str_replace($frase[$c], " ", $frase);
+          }
+          $contador = 0;
+        }
       }
-      $msg .= "Quantidade de letras = {$$qtd_letras}<br>";
-      $msg .= "Quantidade de palavras = {$qtd_palavras}<br>";
+      }
     }
-    else
+else
     {
         $flag_msg = false;
         $msg = "Dado incorreto, preencha o formulário corretamente!";
     }
-}
 ?>
 <!doctype html>
 <html lang="pt-br">

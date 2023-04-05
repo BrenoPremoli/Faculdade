@@ -40,7 +40,7 @@ if (isset($_GET['enviar']))
 ?>
 
 <!doctype html>
-<html lang="pr-br">
+<html lang="pt-br">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -60,7 +60,7 @@ if (isset($_GET['enviar']))
     <div class="p-4 mb-4 bg-primary">
       <h1 class="display-5">Tabuada</h1>
       <hr class="my-3">
-      <p class="lead">Criar um array com 50 números inteiros, exibi-lo em ordem crescente e exibir a quantidade de números pares e de números primos.</pre></p>
+      <p class="lead">Criar um array com 50 números inteiros, exibi-lo em ordem crescente e exibir a quantidade de números pares e de números primos.</p>
     </div>
   </header>
 

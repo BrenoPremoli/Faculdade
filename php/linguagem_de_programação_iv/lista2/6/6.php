@@ -52,7 +52,7 @@ if (isset($_GET['enviar'])) // isset verifica se a variável foi iniciada
 }
 ?>
 <!doctype html>
-<html lang="pr-br">
+<html lang="pt-br">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">

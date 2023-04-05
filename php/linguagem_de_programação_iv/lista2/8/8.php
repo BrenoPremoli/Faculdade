@@ -1,48 +1,103 @@
 <?php
+error_reporting(0);
 $flag_msg = null;
 $msg = "";
 
-if (isset($_GET['enviar'])) // isset verifica se a variável foi iniciada
-{ 
-    $prestacao = $_GET["prestacao"];
-    $pago = $_GET["pago"];
-    $valor = $_GET["valor"];
-
-    if (is_numeric($prestacao) && is_numeric($pago) && is_numeric($valor) && ($prestacao > 0) && ($pago >= 0) && ($valor > 0))
+if (isset($_GET['enviar']))
+{
+  $lista = [];
+  $jogos = [];
+  $total = 0;
+  $flag_msg = true;
+  while ($total < 10)
+  {
+    $cont = 0;
+    while ($cont <= 6)
     {
-        if ($prestacao > $pago)
-        {
-            $flag_msg = true;
-            $npago = $prestacao - $pago;
-            $divida = $valor * $npago;
-            $msg = "Consórcio:<br />Saldo devedor atual: R$";
-            $msg .= number_format($divida ,2,",",".");
-            $msg .= "<br/>Quantidade de prestações sem pagar: ";
-            $msg .= number_format($npago ,0);
-        }
-        elseif ($prestacao == $pago)
-        {
-            $flag_msg = true;
-            $msg .= "Todas as suas parcelas estão QUITADAS!";
-        }
-        else
-        {
-            $flag_msg = false;
-            $msg = "O número de parcelas pagas não pode ser maior que o total de parcelas.";
-        }
+      $num = rand(1, 60);
+      if ($cont == 0 || in_array($num, $lista) == false)
+      {
+        $lista[$cont] = $num;
+        $cont++;
+      }
+      if ($cont >= 6)
+      {
+        break;
+      }
     }
-    else
+    sort($lista);
+    $lista = implode(', ', $lista);
+    $jogos[$total] = $lista;
+    unset($lista);
+    $total++;
+  }
+  for ($x1 = 0; $x1 < 10; $x1++)
+  {
+    $jogo = $x1 + 1;
+    $msg .= "Jogo $jogo -> ";
+    $msg .= "$jogos[$x1]<br>";
+  }
+  $sorteio = [];
+  $cont = 0;
+  while ($cont <= 6)
+  {
+    $num = rand(1, 60);
+    if ($cont == 0 || in_array($num, $sorteio) == false)
     {
-        $flag_msg = false;
-        $msg = "Dados incorretos, preencha o formulário corretamente!";
+      $sorteio[$cont] = $num;
+      $cont++;
     }
+    if ($cont >= 6)
+    {
+      break;
+    }
+  }
+  sort($sorteio);
+  $msg .= "SORTEIO OFICIAL -> ";
+  foreach ($sorteio as $key => $val) 
+  {
+    $cont = 0;
+    $msg .=  "$val | ";
+  }
+  $total = 0;
+  for($cont_num = 0; $cont_num < 10; $cont_num++)
+  {
+    $total = 0;
+    $lista = explode(',', $jogos[$cont_num]);
+    while ($total <= 6)
+    {
+      if (in_array($sorteio[$total], $lista))
+      {
+        $cont++;
+      }
+      if ($cont >= 6)
+      {
+        break;
+      }
+      $total++;
+    }
+    if ($cont_num == 0)
+    {
+      $msg .= "<br>";
+    }
+    $jogo = $cont_num + 1;
+    $msg .= "JOGO $jogo -> $cont Acertos<br>";
+    $cont = 0;
 }
+}
+
 ?>
+
 <!doctype html>
-<html lang="pr-br">
+<html lang="pt-br">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    form {
+      text-align: center;
+    }
+  </style>
   <title>Exercício PHP 08</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
@@ -52,37 +107,21 @@ if (isset($_GET['enviar'])) // isset verifica se a variável foi iniciada
 <div class = "all">
   <header>
     <div class="p-4 mb-4 bg-primary">
-      <h1 class="display-5">Prestações</h1>
+      <h1 class="display-5">MegaSena</h1>
       <hr class="my-3">
-      <p class="lead">Faça um programa que leia o número total de prestações de um consórcio, o total de prestações pagas e o valor atual da prestação. O programa deve calcular e apresentar o saldo devedor atual e a quantidade de prestações sem pagar.</p>
+      <p class="lead">Crie um programa que armazene em um array 10 jogos da megasena, com 6 números inteiros cada (de 1 a 60) e em seguida crie um método que sorteie 6 dezenas e exiba a quantidade de acertos de cada jogo.</p>
     </div>
   </header>
 
   <div class="container">
     <form method="GET">
-      <div class="form-group col-md-3">
-        <label for="prestacao">Número total de prestações:</label>
-        <input type="text" class="form-control" id="prestacao" name="prestacao" required>
-      </div>
-      <div class="form-group col-md-3">
-        <label for="pago">Total de prestações pagas:</label>
-        <input type="text" class="form-control" id="pago" name="pago" required>
-      </div>
-      <div class="form-group col-md-3">
-        <label for="valor">Valor atual da prestação:</label>
-        <input type="text" class="form-control" id="valor" name="valor" required>
-      </div>
-      <br />
-      <button type="submit" class="btn btn-success mb-2" name="enviar">Enviar</button>
-      <a href="8.php"><button type="button" class="btn btn-primary mb-2" name="limpar">Limpar</button></a>
+      <button type="submit" class="btn btn-success mb-5" name="enviar">Sortear 6 dezenas e exibir a quantidade de acertos de cada jogo</button><br>
       <a  href="../index.html"><button type="button" class="btn btn-danger mb-2" name="voltar">Voltar</button></a>
     </form>
     <?php 
       if (!is_null($flag_msg)) {
         if ($flag_msg) {
-          echo "<div class='alert alert-success' role='alert'>$msg</div><br>"; 
-        }else{
-          echo "<div class='alert alert-warning' role='alert'>$msg</div><br>"; 
+          echo "<div class='alert alert-primary' role='alert'>$msg</div><br>"; 
         }
       }
     ?>

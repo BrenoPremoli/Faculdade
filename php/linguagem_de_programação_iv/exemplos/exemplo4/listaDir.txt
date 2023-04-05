@@ -1,0 +1,14 @@
+.
+..
+uploads
+convert.php
+exe01.php
+exe02.php
+exe03.php
+footer.php
+header.php
+index.php
+listaDir.txt
+newfile.txt
+upload.php
+webdictionary.txt
