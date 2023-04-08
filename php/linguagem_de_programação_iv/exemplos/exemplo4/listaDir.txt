@@ -10,5 +10,8 @@ header.php
 index.php
 listaDir.txt
 newfile.txt
+tabela.csv
+tabela.json
+tabela.txt
 upload.php
 webdictionary.txt
