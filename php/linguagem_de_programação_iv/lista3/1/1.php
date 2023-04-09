@@ -4,14 +4,14 @@ $msg = "";
 
 $arquivo = fopen("Breno de Oliveira Premoli.txt", "w")
 or die("Não consegui abrir o arquivo!");
-$txt = "Romero é muito bagre\n";
-fwrite($arquivo, $txt);
-$txt = "A diretoria do SCCP é incompetente\n";
-fwrite($arquivo, $txt);
-$txt = "A europa teme o Real Madrid e o Real Madrid teme o Barcelona\n";
-fwrite($arquivo, $txt);
+
+fwrite($arquivo, "Romero é muito bagre\n");
+fwrite($arquivo, "A diretoria do SCCP é incompetente\n");
+fwrite($arquivo, "A europa teme o Real Madrid e o Real Madrid teme o Barcelona\n");
+
 $arquivo = fopen("Breno de Oliveira Premoli.txt", "r")
 or die("Não consegui abrir o arquivo!");
+
 while(!feof($arquivo))
 {
 $msg .= fgets($arquivo) . "<br />";

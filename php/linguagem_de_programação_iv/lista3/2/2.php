@@ -13,18 +13,17 @@ if (isset($_GET['enviar'])) // isset verifica se a variável foi iniciada
     $arquivo = fopen("times.txt", "w")
     or die("Não consegui abrir o arquivo!");
 
-    fwrite($arquivo, $times1);
-    fwrite($arquivo, "<br>");
-    fwrite($arquivo, $times2);
-    fwrite($arquivo, "<br>");
-    fwrite($arquivo, $times3);
-    fwrite($arquivo, "<br>");
-    fwrite($arquivo, $times4);
-    fwrite($arquivo, "<br>");
+    fwrite($arquivo, $times1 . "\n");
+    fwrite($arquivo, $times2 . "\n");
+    fwrite($arquivo, $times3 . "\n");
+    fwrite($arquivo, $times4 . "\n");
     fwrite($arquivo, $times5);
+
     $flag_msg = true;
+
     $arquivo = fopen("times.txt", "r")
     or die("Não consegui abrir o arquivo!");
+    
     while(!feof($arquivo))
     {
     $msg .= fgets($arquivo) . "<br />";
