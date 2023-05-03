@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\bin\Debug\net7.0\HerancaProduto.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\bin\Debug\net7.0\HerancaProduto.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\bin\Debug\net7.0\HerancaProduto.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\bin\Debug\net7.0\HerancaProduto.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\bin\Debug\net7.0\HerancaProduto.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\refint\HerancaProduto.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\HerancaProduto.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\HerancaProduto\obj\Debug\net7.0\ref\HerancaProduto.dll

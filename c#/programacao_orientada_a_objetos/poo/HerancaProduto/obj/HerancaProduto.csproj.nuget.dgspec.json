@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\classe\\classe.csproj": {}
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\HerancaProduto\\HerancaProduto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\classe\\classe.csproj": {
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\HerancaProduto\\HerancaProduto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\classe\\classe.csproj",
-        "projectName": "classe",
-        "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\classe\\classe.csproj",
+        "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\HerancaProduto\\HerancaProduto.csproj",
+        "projectName": "HerancaProduto",
+        "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\HerancaProduto\\HerancaProduto.csproj",
         "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\classe\\obj\\",
+        "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\HerancaProduto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config",
