@@ -13,15 +13,15 @@ namespace HerancaProduto
         public Perecivel()
         {
         }
-        public Perecivel(int codigo, string nome, float preco, string dtFabricacao, string dtValidade, int lote) : base(codigo, nome, preco)
+        public Perecivel(int codigo, string nome, float preco, string dtFabricacao, string dtValidade, int lote) : base(codigo, nome, preco) // base -> construtor
         {
             DtFabricacao = dtFabricacao;
             DtValidade = dtValidade;
             Lote = lote;
         }
-        public void Mostrar()
+        public override void Mostrar()
         {
-            base.Mostrar();
+            base.Mostrar(); // chama a função pronta na superclasse
             System.Console.WriteLine($"Data de Fabricação: {DtFabricacao}");
             System.Console.WriteLine($"Data de Validade: {DtValidade}");
             System.Console.WriteLine($"Lote: {Lote}\n");

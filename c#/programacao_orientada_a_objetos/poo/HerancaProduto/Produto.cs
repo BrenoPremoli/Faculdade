@@ -19,7 +19,7 @@ namespace HerancaProduto
             Nome = nome;
             Preco = preco;
         }
-        public void Mostrar()
+        public virtual void Mostrar()
         {
             System.Console.WriteLine($"Código: {Codigo}");
             System.Console.WriteLine($"Nome: {Nome}");

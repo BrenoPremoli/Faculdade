@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\bin\Debug\net7.0\HerancaPolimorfismoFuncionario.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\bin\Debug\net7.0\HerancaPolimorfismoFuncionario.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\bin\Debug\net7.0\HerancaPolimorfismoFuncionario.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\bin\Debug\net7.0\HerancaPolimorfismoFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\bin\Debug\net7.0\HerancaPolimorfismoFuncionario.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\refint\HerancaPolimorfismoFuncionario.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\HerancaPolimorfismoFuncionario.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\HerancaPolimorfismoFuncionario\obj\Debug\net7.0\ref\HerancaPolimorfismoFuncionario.dll

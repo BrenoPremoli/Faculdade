@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "EncapsulamentoFuncionario/1.0.0": {
+      "HerancaPolimorfismoFuncionario/1.0.0": {
         "runtime": {
-          "EncapsulamentoFuncionario.dll": {}
+          "HerancaPolimorfismoFuncionario.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EncapsulamentoFuncionario/1.0.0": {
+    "HerancaPolimorfismoFuncionario/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
