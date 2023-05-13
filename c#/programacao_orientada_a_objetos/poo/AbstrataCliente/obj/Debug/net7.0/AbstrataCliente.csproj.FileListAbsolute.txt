@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\bin\Debug\net7.0\AbstrataCliente.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\bin\Debug\net7.0\AbstrataCliente.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\bin\Debug\net7.0\AbstrataCliente.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\bin\Debug\net7.0\AbstrataCliente.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\bin\Debug\net7.0\AbstrataCliente.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\refint\AbstrataCliente.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\AbstrataCliente.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\AbstrataCliente\obj\Debug\net7.0\ref\AbstrataCliente.dll
