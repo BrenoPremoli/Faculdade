@@ -41,7 +41,7 @@ section {
 
 section>h1 {
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 50px;
+    font-size: 4vw;
 }
 
 .menu {
@@ -84,7 +84,7 @@ section>h1 {
     text-align: center;
     background-color: #db9b96;
     color: rgb(39, 20, 20);
-    font-size: 3em;
+    font-size: 4vw;
     padding: 10px 0px 30px 0px;
 }
 
@@ -115,7 +115,7 @@ section>h1 {
 .carousel-caption .carousel-title {
     background-color: rgba(0, 0, 0, 0.87);
     padding: 10px;
-    font-size: 35px;
+    font-size: 3vw;
     display: inline;
     border-radius: 5%;
     font-weight: 600;
@@ -126,6 +126,7 @@ section>h1 {
     color: white;
     padding: 30px;
     text-align: center;
+    font-size: 2vw;
 }
 
 .s2>h1 {
