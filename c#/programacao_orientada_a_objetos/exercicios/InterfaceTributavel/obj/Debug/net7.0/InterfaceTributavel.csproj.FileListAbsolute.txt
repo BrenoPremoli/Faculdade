@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\bin\Debug\net7.0\InterfaceTributavel.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\bin\Debug\net7.0\InterfaceTributavel.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\bin\Debug\net7.0\InterfaceTributavel.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\bin\Debug\net7.0\InterfaceTributavel.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\bin\Debug\net7.0\InterfaceTributavel.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\refint\InterfaceTributavel.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\InterfaceTributavel.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\exercicios\InterfaceTributavel\obj\Debug\net7.0\ref\InterfaceTributavel.dll

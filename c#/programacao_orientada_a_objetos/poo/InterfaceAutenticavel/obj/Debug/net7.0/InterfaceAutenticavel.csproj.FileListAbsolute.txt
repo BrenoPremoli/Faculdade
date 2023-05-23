@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\bin\Debug\net7.0\InterfaceAutenticavel.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\refint\InterfaceAutenticavel.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\InterfaceAutenticavel.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\InterfaceAutenticavel\obj\Debug\net7.0\ref\InterfaceAutenticavel.dll
