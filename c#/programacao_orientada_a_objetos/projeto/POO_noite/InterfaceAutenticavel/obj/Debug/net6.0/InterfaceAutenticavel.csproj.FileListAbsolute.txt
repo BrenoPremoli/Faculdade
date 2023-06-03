@@ -1,0 +1,15 @@
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.exe
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.deps.json
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.runtimeconfig.json
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.dll
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\bin\Debug\net6.0\InterfaceAutenticavel.pdb
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.dll
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\refint\InterfaceAutenticavel.dll
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.pdb
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\InterfaceAutenticavel.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\InterfaceAutenticavel\obj\Debug\net6.0\ref\InterfaceAutenticavel.dll

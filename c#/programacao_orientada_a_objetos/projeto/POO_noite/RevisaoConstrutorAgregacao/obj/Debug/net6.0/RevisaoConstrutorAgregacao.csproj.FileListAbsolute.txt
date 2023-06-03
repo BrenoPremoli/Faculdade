@@ -1,0 +1,15 @@
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\bin\Debug\net6.0\RevisaoConstrutorAgregacao.exe
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\bin\Debug\net6.0\RevisaoConstrutorAgregacao.deps.json
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\bin\Debug\net6.0\RevisaoConstrutorAgregacao.runtimeconfig.json
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\bin\Debug\net6.0\RevisaoConstrutorAgregacao.dll
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\bin\Debug\net6.0\RevisaoConstrutorAgregacao.pdb
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.dll
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\refint\RevisaoConstrutorAgregacao.dll
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.pdb
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\RevisaoConstrutorAgregacao.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\RevisaoConstrutorAgregacao\obj\Debug\net6.0\ref\RevisaoConstrutorAgregacao.dll

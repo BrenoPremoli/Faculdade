@@ -1,0 +1,15 @@
+D:\Disciplinas\POO_noite\ArrayConta\bin\Debug\net6.0\ArrayConta.exe
+D:\Disciplinas\POO_noite\ArrayConta\bin\Debug\net6.0\ArrayConta.deps.json
+D:\Disciplinas\POO_noite\ArrayConta\bin\Debug\net6.0\ArrayConta.runtimeconfig.json
+D:\Disciplinas\POO_noite\ArrayConta\bin\Debug\net6.0\ArrayConta.dll
+D:\Disciplinas\POO_noite\ArrayConta\bin\Debug\net6.0\ArrayConta.pdb
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.dll
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\refint\ArrayConta.dll
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.pdb
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ArrayConta.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\ArrayConta\obj\Debug\net6.0\ref\ArrayConta.dll

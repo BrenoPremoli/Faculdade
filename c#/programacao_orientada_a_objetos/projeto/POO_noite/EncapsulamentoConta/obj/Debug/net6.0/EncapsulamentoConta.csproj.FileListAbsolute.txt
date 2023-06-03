@@ -1,0 +1,15 @@
+D:\Disciplinas\POO_noite\EncapsulamentoConta\bin\Debug\net6.0\EncapsulamentoConta.exe
+D:\Disciplinas\POO_noite\EncapsulamentoConta\bin\Debug\net6.0\EncapsulamentoConta.deps.json
+D:\Disciplinas\POO_noite\EncapsulamentoConta\bin\Debug\net6.0\EncapsulamentoConta.runtimeconfig.json
+D:\Disciplinas\POO_noite\EncapsulamentoConta\bin\Debug\net6.0\EncapsulamentoConta.dll
+D:\Disciplinas\POO_noite\EncapsulamentoConta\bin\Debug\net6.0\EncapsulamentoConta.pdb
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.dll
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\refint\EncapsulamentoConta.dll
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.pdb
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\EncapsulamentoConta.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\EncapsulamentoConta\obj\Debug\net6.0\ref\EncapsulamentoConta.dll

@@ -1,0 +1,15 @@
+D:\Disciplinas\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.exe
+D:\Disciplinas\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.deps.json
+D:\Disciplinas\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.runtimeconfig.json
+D:\Disciplinas\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.dll
+D:\Disciplinas\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.pdb
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.dll
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\refint\RevisaoComposicao.dll
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.pdb
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\RevisaoComposicao\obj\Debug\net6.0\ref\RevisaoComposicao.dll

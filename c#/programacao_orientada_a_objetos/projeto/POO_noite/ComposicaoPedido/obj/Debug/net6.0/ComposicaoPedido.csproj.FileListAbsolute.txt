@@ -1,0 +1,15 @@
+D:\Disciplinas\POO_noite\ComposicaoPedido\bin\Debug\net6.0\ComposicaoPedido.exe
+D:\Disciplinas\POO_noite\ComposicaoPedido\bin\Debug\net6.0\ComposicaoPedido.deps.json
+D:\Disciplinas\POO_noite\ComposicaoPedido\bin\Debug\net6.0\ComposicaoPedido.runtimeconfig.json
+D:\Disciplinas\POO_noite\ComposicaoPedido\bin\Debug\net6.0\ComposicaoPedido.dll
+D:\Disciplinas\POO_noite\ComposicaoPedido\bin\Debug\net6.0\ComposicaoPedido.pdb
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.dll
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\refint\ComposicaoPedido.dll
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.pdb
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ComposicaoPedido.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\ComposicaoPedido\obj\Debug\net6.0\ref\ComposicaoPedido.dll

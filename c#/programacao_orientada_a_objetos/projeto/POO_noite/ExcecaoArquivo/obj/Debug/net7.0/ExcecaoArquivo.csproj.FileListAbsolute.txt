@@ -1,0 +1,15 @@
+E:\Disciplinas\POO_noite\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.exe
+E:\Disciplinas\POO_noite\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.deps.json
+E:\Disciplinas\POO_noite\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.runtimeconfig.json
+E:\Disciplinas\POO_noite\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.dll
+E:\Disciplinas\POO_noite\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.pdb
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.csproj.AssemblyReference.cache
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.AssemblyInfoInputs.cache
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.AssemblyInfo.cs
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.csproj.CoreCompileInputs.cache
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.dll
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\refint\ExcecaoArquivo.dll
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.pdb
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.genruntimeconfig.cache
+E:\Disciplinas\POO_noite\ExcecaoArquivo\obj\Debug\net7.0\ref\ExcecaoArquivo.dll

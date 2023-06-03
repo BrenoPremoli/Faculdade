@@ -1,0 +1,30 @@
+D:\Disciplinas\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.exe
+D:\Disciplinas\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.deps.json
+D:\Disciplinas\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.runtimeconfig.json
+D:\Disciplinas\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.dll
+D:\Disciplinas\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.pdb
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.dll
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\refint\PadraoStrategy.dll
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.pdb
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\PadraoStrategy\obj\Debug\net7.0\ref\PadraoStrategy.dll
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.deps.json
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.runtimeconfig.json
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.dll
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\bin\Debug\net7.0\PadraoStrategy.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.AssemblyInfo.cs
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.dll
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\refint\PadraoStrategy.dll
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\PadraoStrategy.genruntimeconfig.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoStrategy\obj\Debug\net7.0\ref\PadraoStrategy.dll

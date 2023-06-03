@@ -1,0 +1,15 @@
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.csproj.AssemblyReference.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.AssemblyInfoInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.AssemblyInfo.cs
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.csproj.CoreCompileInputs.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\bin\Debug\net7.0\PadraoProjetoTrabalho.exe
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\bin\Debug\net7.0\PadraoProjetoTrabalho.deps.json
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\bin\Debug\net7.0\PadraoProjetoTrabalho.runtimeconfig.json
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\bin\Debug\net7.0\PadraoProjetoTrabalho.dll
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\bin\Debug\net7.0\PadraoProjetoTrabalho.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.dll
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\refint\PadraoProjetoTrabalho.dll
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.pdb
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\PadraoProjetoTrabalho.genruntimeconfig.cache
+C:\Users\giova\OneDrive - Fatec Centro Paula Souza\_DADOS_ATUAIS\_FATEC\Disciplinas\POO\C#\_20231\POO_noite\PadraoProjetoTrabalho\obj\Debug\net7.0\ref\PadraoProjetoTrabalho.dll

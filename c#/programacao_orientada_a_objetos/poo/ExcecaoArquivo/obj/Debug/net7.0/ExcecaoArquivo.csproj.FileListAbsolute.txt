@@ -1,0 +1,15 @@
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.exe
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.deps.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.runtimeconfig.json
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\bin\Debug\net7.0\ExcecaoArquivo.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\refint\ExcecaoArquivo.dll
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.pdb
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ExcecaoArquivo.genruntimeconfig.cache
+C:\Users\breno\OneDrive\Documentos\GitHub\faculdade\c#\programacao_orientada_a_objetos\poo\ExcecaoArquivo\obj\Debug\net7.0\ref\ExcecaoArquivo.dll

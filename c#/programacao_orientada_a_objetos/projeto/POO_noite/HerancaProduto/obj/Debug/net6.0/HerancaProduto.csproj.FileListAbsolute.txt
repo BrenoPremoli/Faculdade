@@ -1,0 +1,15 @@
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.csproj.AssemblyReference.cache
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.AssemblyInfoInputs.cache
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.AssemblyInfo.cs
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.csproj.CoreCompileInputs.cache
+D:\Disciplinas\POO_noite\HerancaProduto\bin\Debug\net6.0\HerancaProduto.exe
+D:\Disciplinas\POO_noite\HerancaProduto\bin\Debug\net6.0\HerancaProduto.deps.json
+D:\Disciplinas\POO_noite\HerancaProduto\bin\Debug\net6.0\HerancaProduto.runtimeconfig.json
+D:\Disciplinas\POO_noite\HerancaProduto\bin\Debug\net6.0\HerancaProduto.dll
+D:\Disciplinas\POO_noite\HerancaProduto\bin\Debug\net6.0\HerancaProduto.pdb
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.dll
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\refint\HerancaProduto.dll
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.pdb
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\HerancaProduto.genruntimeconfig.cache
+D:\Disciplinas\POO_noite\HerancaProduto\obj\Debug\net6.0\ref\HerancaProduto.dll
