@@ -5,9 +5,10 @@ using System.Threading.Tasks;
 
 namespace PadraoProjetoTrabalho
 {
+    
     public class CalculadoraDeDescontos
     {
-        public double Calcula(Orcamento orcamento)
+        /*public double Calcula(Orcamento orcamento)
         {
             // verifica primeira regra de possível desconto
             if (orcamento.Itens.Count > 5)
@@ -21,5 +22,22 @@ namespace PadraoProjetoTrabalho
         }
         // Classe pouca coesa, caso seja inserido novos descontos o que fazer?
         // ???????????????????????????????
+    }*/
+    
+    public void RealizarCalculoDez(Orcamento orcamento)
+    {
+        double dez = orcamento.Valor * 0.1;
     }
+
+    public void RealizarCalculoSete(Orcamento orcamento)
+    {
+        double sete = orcamento.Valor * 0.07;
+    }
+
+    public void RealizarCalculo(Orcamento orcamento, Desconto desconto)
+    {
+        double valorDesconto = desconto.Calcula(orcamento);
+        Console.WriteLine($"{orcamento.Valor:C} tem o desconto de {valorDesconto:C}");
+    }
+}
 }

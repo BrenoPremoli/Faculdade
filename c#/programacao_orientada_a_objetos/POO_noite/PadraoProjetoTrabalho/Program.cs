@@ -7,6 +7,10 @@ using PadraoProjetoTrabalho;
 // se ele fez uma compra casada de alguns produtos, recebe 7%
 // de desconto e assim por diante.
 
+Desconto dez = new Dez();
+Desconto sete = new Sete();
+
+
 Item it1 = new Item("mouse", 100.10);
 Item it2 = new Item("pendrive", 80.90);
 Item it3 = new Item("monitor", 950.99);
@@ -24,5 +28,7 @@ orcamento.AdicionaItens(it5);
 //orcamento.AdicionaItens(it6);
 
 CalculadoraDeDescontos calculadora = new CalculadoraDeDescontos();
-Console.WriteLine("Desconto: " + calculadora.Calcula(orcamento));
+calculadora.RealizarCalculo(orcamento, sete);
+calculadora.RealizarCalculo(orcamento, dez);
+
 

@@ -1,32 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giova\\OneDrive - Fatec Centro Paula Souza\\_DADOS_ATUAIS\\_FATEC\\Disciplinas\\POO\\C#\\_20231\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj": {}
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giova\\OneDrive - Fatec Centro Paula Souza\\_DADOS_ATUAIS\\_FATEC\\Disciplinas\\POO\\C#\\_20231\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj": {
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giova\\OneDrive - Fatec Centro Paula Souza\\_DADOS_ATUAIS\\_FATEC\\Disciplinas\\POO\\C#\\_20231\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj",
+        "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj",
         "projectName": "PadraoProjetoTrabalho",
-        "projectPath": "C:\\Users\\giova\\OneDrive - Fatec Centro Paula Souza\\_DADOS_ATUAIS\\_FATEC\\Disciplinas\\POO\\C#\\_20231\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj",
-        "packagesPath": "C:\\Users\\giova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giova\\OneDrive - Fatec Centro Paula Souza\\_DADOS_ATUAIS\\_FATEC\\Disciplinas\\POO\\C#\\_20231\\POO_noite\\PadraoProjetoTrabalho\\obj\\",
+        "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\POO_noite\\PadraoProjetoTrabalho\\PadraoProjetoTrabalho.csproj",
+        "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\POO_noite\\PadraoProjetoTrabalho\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\giova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
