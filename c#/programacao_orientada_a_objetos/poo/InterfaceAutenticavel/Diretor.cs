@@ -7,7 +7,6 @@ namespace InterfaceAutenticavel
 {
     public class Diretor : Funcionario, IAutenticavel
     {
-        public string Nome { get; set; }
         public int Senha { get; set; }
         public bool Autenticar(int s)
         {

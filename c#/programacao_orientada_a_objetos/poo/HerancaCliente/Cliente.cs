@@ -24,7 +24,6 @@ namespace HerancaCliente
             System.Console.WriteLine("Código: " + Codigo);
             System.Console.WriteLine("Nome: " + Nome);
             System.Console.WriteLine("Endereço: " + Endereco);
-            System.Console.WriteLine();
         }
         public int Codigo
         {

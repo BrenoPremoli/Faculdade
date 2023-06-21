@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\AbstrataFuncionario\\AbstrataFuncionario.csproj": {}
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\exercicios\\AbstrataFuncionario\\AbstrataFuncionario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\AbstrataFuncionario\\AbstrataFuncionario.csproj": {
+    "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\exercicios\\AbstrataFuncionario\\AbstrataFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\AbstrataFuncionario\\AbstrataFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\exercicios\\AbstrataFuncionario\\AbstrataFuncionario.csproj",
         "projectName": "AbstrataFuncionario",
-        "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\AbstrataFuncionario\\AbstrataFuncionario.csproj",
+        "projectPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\exercicios\\AbstrataFuncionario\\AbstrataFuncionario.csproj",
         "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\poo\\AbstrataFuncionario\\obj\\",
+        "outputPath": "C:\\Users\\breno\\OneDrive\\Documentos\\GitHub\\faculdade\\c#\\programacao_orientada_a_objetos\\exercicios\\AbstrataFuncionario\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

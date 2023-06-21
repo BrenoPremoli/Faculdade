@@ -7,6 +7,7 @@ c.Codigo = 1;
 c.Nome = "Bia";
 c.Endereco = "Rua Denuncio David, 436";
 c.Mostrar();
+System.Console.WriteLine();
 
 ClienteFisico cf = new ClienteFisico();
 cf.Codigo = 2;
@@ -24,3 +25,4 @@ cj.Nome = "Mercado Imperial LTDA";
 cj.Endereco = "Rua Denuncio David, 436";
 cj.Cnpj = 222;
 cj.Ie = 22;
+cj.Mostrar();

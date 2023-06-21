@@ -27,5 +27,12 @@ namespace HerancaCliente
             get { return ie; }
             set { ie = value; }
         }
+        public void Mostrar()
+        {
+            base.Mostrar();
+            System.Console.WriteLine("CNPJ: " + Cnpj);
+            System.Console.WriteLine("Inscrição Estadual: " + Ie);
+            System.Console.WriteLine();
+        }
     }
 }
