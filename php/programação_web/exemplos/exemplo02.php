@@ -1,5 +1,21 @@
 <?php
 
+trait Utils
+{
+    public function buscaCep(){
+
+    }
+
+    public function validaCpf(){
+
+    }
+}
+class Utils2{
+    public static function buscaCep(){
+
+    }
+}
+
 abstract class Conta
 {
     protected string $agencia;
@@ -32,10 +48,18 @@ abstract class Conta
     }
 }
 
-class ContaPoupanca extends Conta{
+final class ContaPoupanca extends Conta
+{
+    use Utils;
     private float $rendimento;
     
     private float $taxa=10.00;
+    public  function __set($atrib, $value){
+        $this->$atrib = $value;
+    }
+    public function __get($atrib){
+        return $this->$atrib;
+    }
 
     public function sacar($valor){
         if (($this->saldo > 0) && ($this->saldo >= $valor + $this->taxa))
@@ -86,6 +110,13 @@ $cp1->verSaldo();
 $cp1->depositar(500.00);
 $cp1->sacar(50.00);
 $cp1->verSaldo();
+
+Utils2::buscaCep();
+$cp2 = new ContaPoupanca("", "", 0.00);
+$cp2->buscaCep();
+$cp2->__get("rendimento");
+$cp2->__set("taxa", 10.00);
+$cp2->buscaCep();
 
 
 ?>
