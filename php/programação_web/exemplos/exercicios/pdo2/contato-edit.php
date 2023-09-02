@@ -1,10 +1,9 @@
 <?php
 require_once("connection.php");
 
-$id = $_GET['id']; // Recupera o ID do contato a ser editado da URL
+$id = $_GET['id']; 
 
 if (isset($_POST['enviar'])) {
-    // Processamento do formulário de edição
     $nome = $_POST['nomeContato'];
     $email = $_POST['emailContato'];
     $datanasc = $_POST['datanascContato'];
@@ -31,7 +30,6 @@ $contato = $stmt->fetch(PDO::FETCH_ASSOC);
 require_once("header_inc.php");
 ?>
 
-<!-- Formulário de edição -->
 <div class="container">
   <form method="POST">
     <div class="form-group">
