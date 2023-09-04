@@ -17,7 +17,7 @@ class Porta{
     public function getAberta(){
         return $this->aberta;
     }
-    public function setAberta(string $aberta){
+    public function setAberta(float $aberta){
         $this->aberta = $aberta;
     }
     public function getCor(){
@@ -29,19 +29,19 @@ class Porta{
     public function getDimensaoX(){
         return $this->dimensaoX;
     }
-    public function setDimensaoX(int $dimensaoX){
+    public function setDimensaoX(float $dimensaoX){
         $this->dimensaoX = $dimensaoX;
     }
     public function getDimensaoY(){
         return $this->dimensaoY;
     }
-    public function setDimensaoY(int $dimensaoY){
+    public function setDimensaoY(float $dimensaoY){
         $this->dimensaoY = $dimensaoY;
     }
     public function getDimensaoZ(){
         return $this->dimensaoZ;
     }
-    public function setDimensaoZ(int $dimensaoZ){
+    public function setDimensaoZ(float $dimensaoZ){
         $this->dimensaoZ = $dimensaoZ;
     }
     public function pinta(string $s){
@@ -69,19 +69,19 @@ class Casa extends Imovel{
     public function getPorta1(){
         return $this->porta1;
     }
-    public function setPorta1(int $porta1){
+    public function setPorta1(Porta $porta1){
         $this->porta1 = $porta1;
     }
     public function getPorta2(){
         return $this->porta2;
     }
-    public function setPorta2(int $porta2){
+    public function setPorta2(Porta $porta2){
         $this->porta2 = $porta2;
     }
     public function getPorta3(){
         return $this->porta3;
     }
-    public function setPorta3(int $porta3){
+    public function setPorta3(Porta $porta3){
         $this->porta3 = $porta3;
     } 
     

@@ -12,19 +12,19 @@ class Circulo{
     public function getX(){
         return $this->x;
     }
-    public function setX(int $x){
+    public function setX(float $x){
         $this->x = $x;
     }
     public function getY(){
         return $this->y;
     }
-    public function setY(string $raio){
-        $this->raio = $raio;
+    public function setY(float $y){
+        $this->y = $y;
     }
     public function getRaio(){
         return $this->raio;
     }
-    public function setRaio(string $raio){
+    public function setRaio(float $raio){
         if ($raio <= 0) {
             $raio = 1;
         }

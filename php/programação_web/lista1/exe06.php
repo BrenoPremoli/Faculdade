@@ -45,13 +45,13 @@ class Data
     public function getMes(){
         return $this->mes;
     }
-    public function setMes(string $mes){
+    public function setMes(int $mes){
         $this->mes = $mes;
     }
     public function getAno(){
         return $this->ano;
     }
-    public function setAno(string $ano){
+    public function setAno(int $ano){
         $this->ano = $ano;
     }
     public function getDia(){

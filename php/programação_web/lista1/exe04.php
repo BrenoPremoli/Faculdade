@@ -10,13 +10,13 @@ class Ponto2D{
     public function getX(){
         return $this->x;
     }
-    public function setX(int $x){
+    public function setX(float $x){
         $this->x = $x;
     }
     public function getY(){
         return $this->y;
     }
-    public function setY(string $y){
+    public function setY(float $y){
         $this->y = $y;
     }
     public function mostrarPonto()
