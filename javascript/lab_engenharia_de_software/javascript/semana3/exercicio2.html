@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 3</title>
+</head>
+<body>
+    <h1>Exercício 2</h1>
+    <p id="time"></p>
+    <p><a href="../semana3.html">Voltar</a></p>
+    <script>
+        function mostraHora(){
+            let data = new Date();
+            let hora = data.getHours();
+            if (hora < 10) {
+                hora = "0" + hora;
+            }
+            let minuto = data.getMinutes();
+            if (minuto < 10) {
+                minuto = "0" + minuto;
+            }
+            let segundo = data.getSeconds();
+            if (segundo < 10) {
+                segundo = "0" + segundo;
+            }
+            let x = hora + ":" + minuto + ":" +segundo;
+            document.getElementById('time').textContent = x;
+            setTimeout(mostraHora, 1000);
+        }
+        mostraHora();
+    </script>
+    
+</body>
+</html>

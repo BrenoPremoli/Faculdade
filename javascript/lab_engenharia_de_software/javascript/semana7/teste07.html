@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <title>Adicionando React à minha página</title>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        const faculdade = {
+            nome: 'Fatec',
+            cidade: 'Presidente Prudente'
+        };
+
+        function formatName(faculdade){
+            return faculdade.nome + ' - ' + faculdade.cidade;
+        }
+
+        function Elemento(){
+            return <h1>Olá {formatName(faculdade)}</h1>
+        }
+
+        const container = document.getElementById('root');
+        const root = ReactDOM.createRoot(container);
+        root.render(<Elemento />);
+    </script>
+</body>
+</html>

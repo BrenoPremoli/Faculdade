@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 1</title>
+</head>
+<body>
+    <h1>Exercício 3</h1>
+    <script type="text/javascript">
+        let x;
+        while(isNaN(x))
+        {
+            x = prompt("Digite um número:","");
+            x = parseInt(x);
+            while(x <= 0)
+            {
+                x = prompt("Digite um número:","");
+                x = parseInt(x);
+            }
+        }
+        if(x % 2 == 0){
+            alert("É PAR");
+        }
+        else {
+            alert("É ÍMPAR");
+        }
+    </script>
+    <br>
+    <p><a href="../semana1.html">Voltar</a></p>
+</body>
+</html>

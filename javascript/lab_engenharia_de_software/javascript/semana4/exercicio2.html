@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 4</title>
+</head>
+<body>
+    <h1>Exercício 2</h1>
+
+        <p>Marca: <input id="marca" type="text" value="" required></p>
+        <p>Modelo: <input id="modelo" type="text" value="" required></p>
+        <p>Ano: <input id="ano" type="number" value="" min="1" maxlength="4" required></p>
+        <p>Cor: <input id="cor" type="text" value="" ></p>
+        <p>Quilometragem: <input id="km" type="number" value="" min="0" required></p>
+        <p>Valor na tabela Fipe: R$ <input id="valor" type="number" value=""  min="0.0" required></p>
+        <button onclick="enviar()">Exibir</button>
+
+    <p id="cadastro"></p>
+
+    <p><a href="../semana4.html">Voltar</a></p>
+
+    <script>
+        function Carro() {
+            let marca;
+            this.setMarca = function(marca){
+                this.marca = marca;
+            }
+            this.getMarca= function(){
+                return this.marca;
+            }
+            let modelo;
+            this.setModelo = function(modelo){
+                this.modelo = modelo;
+            }
+            this.getModelo = function(){
+                return this.modelo;
+            }
+            let ano;
+            this.setAno = function(ano){
+                this.ano = parseInt(ano);
+            }
+            this.getAno = function(){
+                return this.ano;
+            }
+            let km;
+            this.setKm = function(km){
+                this.km = parseInt(km);
+            }
+            this.getKm = function(){
+                return this.km;
+            }
+            let valor;
+            this.setValor = function(valor){
+                this.valor = parseFloat(valor);
+            }
+            this.getValor = function(){
+                return this.valor;
+            }
+        }
+
+        Carro.prototype.anosUtilizacao = function(){
+                let dataAtual = new Date().getFullYear();
+                return dataAtual - this.ano;
+        }
+
+        Carro.prototype.valorMercado = function(){
+                if(this.km <= 30000)
+                {
+                    return this.valor = (this.valor * 10/100) + this.valor;
+                }
+                else if(this.km > 30000 && this.km <= 50000)
+                {
+                    return this.valor;
+                }
+                else 
+                {
+                    return this.valor = this.valor - (this.valor * 10/100);
+                }
+            }
+
+        function enviar() {
+        let cadastro = "";
+
+        let carro = new Carro();
+        carro.setMarca(document.getElementById("marca").value);
+        carro.setModelo(document.getElementById("modelo").value);
+        carro.setAno(document.getElementById("ano").value);
+        carro.setKm(document.getElementById("km").value);
+        carro.setValor(document.getElementById("valor").value);
+
+        cadastro += "Marca: " + carro.getMarca() + 
+        "<br>Modelo: " + carro.getModelo() + 
+        "<br>Ano: " + carro.getAno() + 
+        "<br>Quilometragem: " + carro.getKm() + 
+        "<br>Valor na tabela Fipe: R$ " + carro.getValor() + 
+        "<br>Anos de utilização: " + carro.anosUtilizacao() + 
+        "<br>Valor de Mercado: R$ " + carro.valorMercado();
+
+        document.getElementById("cadastro").innerHTML = cadastro;
+        }
+
+    </script>
+</body>
+</html>

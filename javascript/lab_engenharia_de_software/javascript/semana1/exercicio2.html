@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 1</title>
+</head>
+<body>
+    <h1>Exercício 2</h1>
+    <script type="text/javascript">
+        let x;
+        while(isNaN(x))
+        {
+            x = prompt("Digite um número:","");
+            x = parseInt(x);
+            while(x <= 0)
+            {
+                x = prompt("Digite um número:","");
+                x = parseInt(x);
+            }
+        }
+        let c;
+        let m = 0;
+        for (c = 1; c <= x; c++)
+        {
+            if (x % c == 0)
+            {
+                m++;
+            }
+        }
+        if(x == 1){
+            alert("NÃO É PRIMO");
+        }
+        else if(m >= 0 && m <= 2){
+            alert("É PRIMO");
+        }
+        else{
+            alert("NÃO É PRIMO");
+        }
+    </script>
+    <br>
+    <p><a href="../semana1.html">Voltar</a></p>
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Projeto - Semana 6</title>
+</head>
+<body>
+    <h1>Exercício 1</h1>
+    <p id="total1"></p>
+    <div id="calculadora">
+        <table>
+            <tr>
+                <td><button onclick="limpar()" class="cor2">AC</button></td>
+                <td><button onclick="inverterSinal()" class="cor2">+/-</button></td>
+                <td><button onclick="adicionar('%')" class="cor2">%</button></td>
+                <td><button onclick="adicionar('/')" class="cor1">/</button></td>
+            </tr>
+            <tr>
+                <td><button class="cor3" onclick="adicionar('9')">9</button></td>
+                <td><button class="cor3" onclick="adicionar('8')">8</button></td>
+                <td><button class="cor3" onclick="adicionar('7')">7</button></td>
+                <td><button onclick="adicionar('*')" class="cor1">*</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="adicionar('4')" class="cor3">4</button></td>
+                <td><button onclick="adicionar('5')" class="cor3">5</button></td>
+                <td><button onclick="adicionar('6')" class="cor3">6</button></td>
+                <td><button onclick="adicionar('-')" class="cor1">-</button></td>
+            </tr>
+            <tr>
+                <td><button onclick="adicionar('1')" class="cor3">1</button></td>
+                <td><button onclick="adicionar('2')" class="cor3">2</button></td>
+                <td><button onclick="adicionar('3')" class="cor3">3</button></td>
+                <td><button onclick="adicionar('+')" class="cor1">+</button></td>
+            </tr>
+            <tr>
+                <td colspan="2"><button style="width: 203px;" onclick="adicionar('0')" class="cor3">0</button></td>
+                <td><button onclick="adicionar('.')" class="cor3">,</button></td>
+                <td><button onclick="calcular()" class="cor1">=</button></td>
+            </tr>
+        </table>
+    </div>
+    <p><a href="../semana6.html">Voltar</a></p>
+    
+    <script>
+        function adicionar(numero) {
+            let total = document.getElementById('total1');
+            total.textContent += numero;
+        }
+
+        function calcular() {
+            let total = document.getElementById('total1').textContent;
+            if (total) {
+                total = eval(total);
+                document.getElementById('total1').textContent = total;
+            }
+        }
+
+        function limpar() {
+            document.getElementById('total1').textContent = "";
+        }
+
+        function inverterSinal() {
+            let total = document.getElementById('total1');
+            let numeroAtual = parseFloat(total.textContent);
+            if (numeroAtual < 0) {
+                total.textContent = Math.abs(numeroAtual);
+            } else {
+                total.textContent = -numeroAtual;
+            }
+        }
+
+    </script>
+</body>
+</html>

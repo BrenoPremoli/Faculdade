@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 2</title>
+</head>
+<body>
+    <h1>Exercício 1</h1>
+    <p>Digite: <input id="dado" type="text" value=""></p>
+    <button onclick="adicionaTexto()">Adicionar</button>
+    <ul id="view"></ul>
+    <p><a href="../semana2.html">Voltar</a></p>
+    
+
+    <script>
+        let texto = new Array();
+        function adicionaTexto(){
+            var x = document.getElementById("dado").value;
+            texto.push(x);    
+            texto.sort();
+            document.getElementById("dado").value = ""; 
+            
+            let view = document.getElementById("view");
+            view.innerHTML = "";
+
+            for (let i = 0; texto.length > i; i++)
+            {
+                let li = document.createElement("li");
+                li.textContent = texto[i];
+                view.appendChild(li);
+            }
+
+        }
+        
+    </script>
+</body>
+</html>

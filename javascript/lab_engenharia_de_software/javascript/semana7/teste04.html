@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <title>Adicionando React à minha página</title>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        function Elemento(){
+            return (
+            <> 
+                <h1>Olá, Mundo!</h1>
+                <h2>Olá, Fatec!</h2>
+            </>
+            );
+        }
+
+        ReactDOM.render(<Elemento />,document.getElementById('root'));
+    </script>
+</body>
+</html>

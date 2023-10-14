@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 3</title>
+</head>
+<body>
+    <h1>Exercício 1</h1>
+
+    <script type="text/javascript">
+        semana = new Array("Domingo","Segunda-feira","Terça-feira","Quarta-feira","Quinta-feira","Sexta-feira","Sábado");
+        meses = new Array("Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro");
+
+        let data = new Date();
+
+        let dia = data.getDate();
+        if (dia < 10) {
+            dia = "0" + dia;
+        }
+        let diaSemana = data.getDay();
+        let mes = data.getMonth();
+        let ano = data.getFullYear();
+
+        document.write(semana[diaSemana], ", ", dia, " de ", meses[mes], " de ", ano, ".");
+    </script>
+    <p><a href="../semana3.html">Voltar</a></p>
+</body>
+</html>

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 4</title>
+</head>
+<style>
+    .hidden {
+        display: none;
+    }
+</style>
+<body>
+    <h1>Exercício 1</h1>
+
+    <form id="formulario">
+        <p>Nome Completo: <input id="nome" type="text" value="" required></p>
+        <p>E-mail: <input id="email" type="email" value="" required></p>
+        <p>Data de Nascimento: <input id="data" type="date" value="" required></p>
+        <p>Telefone Fixo: <input id="telFixo" type="tel" value=""></p>
+        <p>Telefone Celular: <input id="telCelular" type="tel" value="" required></p>
+        <p>Matrícula: <input id="matricula" type="text" value="" required></p>
+
+        <p>Tipo de Cadastro:
+            <input type="radio" id="professor" name="tipo" value="professor" onchange="radio()" required>Professor
+            <input type="radio" id="aluno" name="tipo" value="aluno" onchange="radio()" required>Aluno</p>
+    
+            <p id="area" class="hidden">Área: <input id="prof_area" type="text" value=""></p>
+            <p id="lattes" class="hidden">Lattes: <input id="prof_lattes"  type="text" value=""></p>
+            <p id="curso" class="hidden">Curso: <input id="aluno_curso" type="text" value=""></p>
+            <button type="submit">Exibir</button>
+        </form>
+
+    <p id="cadastro"></p>
+
+    <p><a href="../semana4.html">Voltar</a></p>
+
+    <script>
+        function Pessoa() {
+            let nome;
+            this.setNome = function(nome){
+                this.nome = nome;
+            }
+            this.getNome = function(){
+                return this.nome;
+            }
+            let email;
+            this.setEmail = function(email){
+                this.email = email;
+            }
+            this.getEmail = function(){
+                return this.email;
+            }
+            let data;
+            this.setData = function(data){
+                this.data = data;
+            }
+            this.getData = function(){
+                return this.data;
+            }
+            let telFixo;
+            this.setTelFixo = function(telFixo){
+                this.telFixo = telFixo;
+            }
+            this.getTelFixo = function(){
+                return this.telFixo;
+            }
+            let telCelular;
+            this.setTelCelular = function(telCelular){
+                this.telCelular = telCelular;
+            }
+            this.getTelCelular = function(){
+                return this.telCelular;
+            }
+            let matricula;
+            this.setMatricula = function(matricula){
+                this.matricula = matricula;
+            }
+            this.getMatricula = function(){
+                return this.matricula;
+            }
+        }
+        function Aluno() {
+            Pessoa.call(this);
+            let curso;
+            this.setCurso = function(curso){
+                this.curso = curso;
+            }
+            this.getCurso = function(){
+                return this.curso;
+            }
+        }
+        function Professor() {
+            Pessoa.call(this);
+            let area;
+            this.setArea = function(area){
+                this.area = area;
+            }
+            this.getArea = function(){
+                return this.area;
+            }
+            let lattes;
+            this.setLattes = function(lattes){
+                this.lattes = lattes;
+            }
+            this.getLattes = function(){
+                return this.lattes;
+            }
+        }
+        function radio() {
+            let tipo = document.getElementsByName("tipo");
+
+            if (tipo[0].checked) {
+                document.getElementById("area").classList.remove("hidden");
+                document.getElementById("lattes").classList.remove("hidden");
+                document.getElementById("curso").classList.add("hidden");
+            } else if (tipo[1].checked) {
+                document.getElementById("curso").classList.remove("hidden");
+                document.getElementById("area").classList.add("hidden");
+                document.getElementById("lattes").classList.add("hidden");
+            }
+        }
+
+        function visualizar() {
+
+            let tipo = document.querySelector('input[name="tipo"]:checked').value;
+            let cadastro = "";
+
+            if (tipo === "professor") {
+                let professor = new Professor();
+                professor.setNome(document.getElementById("nome").value);
+                professor.setEmail(document.getElementById("email").value);
+                professor.setData(document.getElementById("data").value);
+                professor.setTelFixo(document.getElementById("telFixo").value);
+                professor.setTelCelular(document.getElementById("telCelular").value);
+                professor.setMatricula(document.getElementById("matricula").value);
+                professor.setArea(document.getElementById("prof_area").value);
+                professor.setLattes(document.getElementById("prof_lattes").value);
+                cadastro += "Nome: " + professor.getNome() + "<br>E-mail: " + professor.getEmail() + "<br>Data de Nascimento: " + professor.getData() + "<br>Telefone Fixo: " + professor.getTelFixo() + "<br>Telefone Celular: " + professor.getTelCelular() + "<br>Matrícula: " + professor.getMatricula() + "<br>" + "Tipo de Cadastro: Professor<br>Área: " + professor.getArea() + "<br>Lattes: " + professor.getLattes();
+
+            } else if (tipo === "aluno") {
+                let aluno = new Aluno();
+                aluno.setNome(document.getElementById("nome").value);
+                aluno.setEmail(document.getElementById("email").value);
+                aluno.setData(document.getElementById("data").value);
+                aluno.setTelFixo(document.getElementById("telFixo").value);
+                aluno.setTelCelular(document.getElementById("telCelular").value);
+                aluno.setMatricula(document.getElementById("matricula").value);
+                aluno.setCurso(document.getElementById("aluno_curso").value);
+                cadastro += "Nome: " + aluno.getNome() + "<br>E-mail: " + aluno.getEmail() + "<br>Data de Nascimento: " + aluno.getData() + "<br>Telefone Fixo: " + aluno.getTelFixo() + "<br>Telefone Celular: " + aluno.getTelCelular() + "<br>Matrícula: " + aluno.getMatricula() + "<br>" + "Tipo de Cadastro: Aluno<br>Curso: " + aluno.getCurso();
+            }
+
+            document.getElementById("cadastro").innerHTML = cadastro;
+            window.location.href = "cadastro.html?cadastro=" + encodeURIComponent(cadastro);
+        }
+
+        document.getElementById("formulario").addEventListener("submit", function(event) {
+        event.preventDefault();
+
+        let formulario = document.getElementById("formulario");
+
+        if (formulario.checkValidity()) {
+            visualizar();
+        } else {
+            alert("Por favor, preencha todos os campos obrigatórios.");
+        }
+        });
+
+    </script>
+</body>
+</html>

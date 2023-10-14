@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro</title>
+</head>
+<body>
+    <h1>Dados do Cadastro</h1>
+    <p id="cadastro"></p>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+    let url = new URLSearchParams(window.location.search);
+    let cadastro = url.get("cadastro");
+
+    if (cadastro) {
+        document.getElementById("cadastro").innerHTML = cadastro;
+    } else {
+        document.getElementById("cadastro").innerHTML = "Nenhum detalhe encontrado.";
+    }
+});
+
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 3</title>
+</head>
+<body>
+    <h1>Exercício 3</h1>
+        <p>Digite: <input id="dado" type="text"></p>
+        <button onclick="analisaFrase()">Analisar</button>
+        <p><a href="../semana3.html">Voltar</a></p>
+    <script>
+        function analisaFrase(){
+            let frase = document.getElementById('dado').value.toLowerCase(); 
+            let esarf = frase.split('').reverse().join(''); 
+            
+            if (frase === esarf) {
+                alert("Palíndromo");
+            }
+            else {
+                alert("Não é Palíndromo");
+            }
+            document.getElementById("dado").value = ""; 
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Projeto - Semana 5</title>
+</head>
+<body>
+    <h1>Exercício 1</h1>
+    <div id="contador">
+        <p>
+            <img src="imagens/male.png" alt="">
+            <button onclick="aumenta('homem')"><img src="imagens/+.png" alt=""></button>
+            <span id="contaHomem">0</span>
+            <button onclick="diminui('homem')"><img src="imagens/-.png" alt=""></button>
+        </p>
+        <p>
+            <img src="imagens/female.png" alt="">
+            <button onclick="aumenta('mulher')"><img src="imagens/+.png" alt=""></button>
+            <span id="contaMulher">0</span>
+            <button onclick="diminui('mulher')"><img src="imagens/-.png" alt=""></button>
+        </p>
+    </div>
+    <h2>HomensㅤㅤMulheres</h2>
+    <h3>Total: <span id="total">0</span></h3>
+    <p><button onclick="zera()"><img src="imagens/zera.png" alt=""></button></p>
+    <p><a href="../semana5.html">Voltar</a></p>
+    
+    <script>
+        let contadorH = 0;
+        let contadorM = 0;
+
+
+        function aumenta(pessoa) {
+            if (pessoa === 'homem') {
+                contadorH++;
+                let contadorHomem = document.getElementById('contaHomem');
+                contadorHomem.textContent = contadorH;
+            } else if (pessoa === 'mulher') {
+                contadorM++;
+                let contadorMulher = document.getElementById('contaMulher');
+                contadorMulher.textContent = contadorM;
+            }
+
+            soma();
+        }
+
+        function diminui(pessoa) {
+            if (pessoa === 'homem' && contadorH > 0) {
+                contadorH--;
+                let contadorHomem = document.getElementById('contaHomem');
+                contadorHomem.textContent = contadorH;
+            } else if (pessoa === 'mulher' && contadorM > 0) {
+                contadorM--;
+                let contadorMulher = document.getElementById('contaMulher');
+                contadorMulher.textContent = contadorM;
+            }
+
+            soma();
+        }
+
+        function soma() {
+            let total = document.getElementById('total');
+            total.textContent = contadorM + contadorH;
+        }
+
+        function zera() {
+            contadorH = 0;
+            contadorM = 0;
+
+            let contadorHomem = document.getElementById('contaHomem');
+            contadorHomem.textContent = contadorH;
+            let contadorMulher = document.getElementById('contaMulher');
+            contadorMulher.textContent = contadorM;
+
+            soma();
+        }
+    </script>
+</body>
+</html>

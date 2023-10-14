@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 1</title>
+</head>
+<body>
+    <h1>Exercício 1</h1>
+    <script type="text/javascript">
+        let x = prompt("Digite um dado:","");
+        if(confirm("Quer ver o tipo do dado informado?")){ 
+            if(x == "")
+            {
+                x = undefined;
+                document.write("Tipo: " + typeof(x)); 
+            }
+            else if(!isNaN(x)){
+                x = parseInt(x);
+                document.write("Tipo: " + typeof(x)); 
+            }
+            else if(x === "true" || x === "false")
+            {
+                x = true;
+                document.write("Tipo: " + typeof(x));
+            }
+            else{
+                document.write("Tipo: " + typeof(x)); 
+            }
+        }
+        else{
+            document.write("Obrigado por visitar esta página");
+        }
+    </script>
+    <br>
+    <p><a href="../semana1.html">Voltar</a></p>
+</body>
+</html>

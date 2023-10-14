@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto - Semana 1</title>
+</head>
+<body>
+    <h1>Exercício 3</h1>
+    <script type="text/javascript">
+        let x;
+        while(isNaN(x))
+        {
+            x = prompt("Digite um número:","");
+            x = parseInt(x);
+            while(x <= 0)
+            {
+                x = prompt("Digite um número:","");
+                x = parseInt(x);
+            }
+        }
+        let c = x;
+        let fat = 1;
+        do {
+            fat = fat * c;
+            c--;
+        } while(c >= 1);
+
+            alert("Fatorial de " + x + "! = " + fat);
+
+    </script>
+    <br>
+    <p><a href="../semana1.html">Voltar</a></p>
+</body>
+</html>
